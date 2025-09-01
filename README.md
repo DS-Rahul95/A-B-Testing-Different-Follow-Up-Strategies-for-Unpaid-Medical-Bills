@@ -1,4 +1,4 @@
-# A-B-Testing-Different-Follow-Up-Strategies-for-Unpaid-Medical-Bills
+# A/B Testing on Different Follow-Up Strategies for Unpaid Medical Bills
 📌 Project Overview
 This project optimizes medical bill collections by A/B testing payer follow-up strategies (calls vs. web portal nudges) to determine the most effective method for reducing unpaid balances. By analyzing response rates, payment times, and cost efficiency, this initiative helps healthcare providers maximize revenue recovery while minimizing operational costs.
 
