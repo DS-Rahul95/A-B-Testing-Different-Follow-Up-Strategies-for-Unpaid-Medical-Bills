@@ -1,0 +1,1501 @@
+Bill_id	Payer_type	Balance_amount	Follow_up_Group	Payment_status	Payment_time_days	cost_per_collection	call_attempts	portal_clicks
+1	BCBS	800	A	Unpaid		6.98	1	0
+2	Self_Pay	800	A	Unpaid		5.62	1	0
+3	Other_Commercial	100	A	Paid	32	7.63	3	0
+4	Other_Commercial	300	B	Paid	6	1.22	0	3
+5	Medicare	500	A	Paid	39	6.01	3	0
+6	Medicare	500	B	Unpaid		3.00	0	4
+7	Medicare	1000	B	Unpaid		2.08	0	0
+8	No_Fault	800	A	Unpaid		6.42	1	0
+9	Other_Commercial	1000	A	Unpaid		9.97	1	0
+10	Other_Commercial	1500	B	Paid	38	2.93	0	1
+11	Medicare	1500	B	Unpaid		1.88	0	2
+12	Self_Pay	1200	A	Paid	19	6.30	2	0
+13	Workers_Compensation	2500	A	Unpaid		9.19	3	0
+14	Medicaid	100	A	Paid	24	8.58	3	0
+15	Medicare	100	B	Paid	5	2.37	0	4
+16	Medicare	100	B	Paid	10	2.79	0	2
+17	BCBS	1000	B	Unpaid		2.38	0	1
+18	Aetna	1800	B	Unpaid		1.57	0	4
+19	BCBS	300	B	Paid	7	2.39	0	4
+20	BCBS	2100	A	Unpaid		6.53	1	0
+21	Other_Commercial	100	A	Unpaid		8.80	1	0
+22	Medicare	2100	B	Unpaid		2.24	0	2
+23	BCBS	500	B	Unpaid		1.15	0	1
+24	BCBS	100	A	Unpaid		7.56	3	0
+25	Aetna	800	A	Unpaid		6.72	2	0
+26	Workers_Compensation	300	A	Paid	34	6.64	1	0
+27	Medicare	300	A	Unpaid		8.01	3	0
+28	Aetna	300	B	Paid	11	1.64	0	0
+29	Other_Commercial	1500	A	Unpaid		8.88	3	0
+30	Medicare	800	B	Paid	22	1.14	0	4
+31	Other_Commercial	300	A	Paid	14	8.30	2	0
+32	Medicare	1000	A	Paid	22	9.05	2	0
+33	Medicare	1200	A	Unpaid		8.36	1	0
+34	No_Fault	300	B	Paid	11	1.99	0	0
+35	Self_Pay	500	B	Unpaid		2.90	0	1
+36	Workers_Compensation	100	A	Unpaid		6.50	1	0
+37	BCBS	100	B	Paid	14	1.04	0	4
+38	Medicare	1200	B	Unpaid		1.86	0	4
+39	Other_Commercial	100	A	Paid	16	5.17	1	0
+40	BCBS	800	A	Paid	36	9.77	3	0
+41	Medicare	1200	B	Unpaid		1.42	0	0
+42	Aetna	100	B	Paid	13	2.58	0	3
+43	Medicare	1000	B	Unpaid		2.55	0	0
+44	No_Fault	300	A	Unpaid		6.09	1	0
+45	BCBS	2500	A	Paid	25	8.11	3	0
+46	Other_Commercial	800	B	Paid	11	1.10	0	0
+47	BCBS	1500	A	Paid	24	7.42	1	0
+48	Aetna	1000	A	Paid	10	5.07	2	0
+49	Aetna	100	B	Paid	8	2.84	0	3
+50	Medicare	1000	B	Unpaid		2.95	0	1
+51	Self_Pay	2500	A	Unpaid		6.11	2	0
+52	Workers_Compensation	1000	A	Paid	19	6.04	3	0
+53	No_Fault	1500	B	Paid	30	2.51	0	1
+54	No_Fault	1800	A	Unpaid		6.27	2	0
+55	Other_Commercial	300	A	Paid	12	9.48	3	0
+56	No_Fault	300	B	Paid	8	2.15	0	4
+57	Medicare	1000	B	Paid	26	1.70	0	2
+58	Medicare	500	A	Paid	35	9.16	3	0
+59	Medicare	1500	A	Paid	10	7.47	2	0
+60	BCBS	2100	A	Paid	18	9.56	3	0
+61	BCBS	500	B	Unpaid		2.86	0	2
+62	BCBS	300	A	Unpaid		5.83	2	0
+63	Workers_Compensation	1500	A	Paid	12	5.01	1	0
+64	BCBS	300	B	Unpaid		2.97	0	4
+65	BCBS	1500	B	Unpaid		2.81	0	2
+66	Aetna	500	A	Paid	26	5.28	1	0
+67	Medicare	1200	B	Paid	33	2.67	0	0
+68	Workers_Compensation	100	B	Unpaid		1.92	0	0
+69	Medicare	1000	A	Paid	31	6.29	2	0
+70	Self_Pay	800	B	Paid	32	2.76	0	3
+71	Workers_Compensation	1000	B	Unpaid		1.39	0	3
+72	Medicare	100	A	Paid	14	9.74	2	0
+73	Medicare	1200	B	Paid	15	1.41	0	4
+74	Workers_Compensation	1800	A	Paid	22	8.07	2	0
+75	Other_Commercial	300	A	Unpaid		6.12	2	0
+76	Other_Commercial	100	B	Paid	14	2.09	0	4
+77	Workers_Compensation	100	B	Unpaid		2.37	0	4
+78	Medicare	1000	B	Paid	21	1.38	0	0
+79	BCBS	1000	A	Paid	28	7.60	1	0
+80	Medicare	800	B	Unpaid		1.94	0	2
+81	No_Fault	300	A	Paid	12	5.36	3	0
+82	Other_Commercial	500	B	Paid	28	2.64	0	4
+83	BCBS	1000	B	Paid	12	1.67	0	4
+84	Medicare	800	B	Unpaid		2.15	0	0
+85	BCBS	2500	A	Unpaid		7.57	3	0
+86	BCBS	100	B	Unpaid		2.03	0	0
+87	Other_Commercial	1200	B	Unpaid		1.21	0	0
+88	Other_Commercial	500	A	Paid	20	7.12	1	0
+89	No_Fault	500	A	Unpaid		7.26	3	0
+90	Aetna	1200	B	Unpaid		2.47	0	2
+91	Medicare	1200	B	Unpaid		2.68	0	4
+92	Other_Commercial	2500	B	Unpaid		2.09	0	1
+93	Workers_Compensation	100	A	Unpaid		5.43	1	0
+94	Other_Commercial	100	A	Paid	24	6.18	3	0
+95	Workers_Compensation	1200	A	Paid	8	5.82	2	0
+96	Aetna	1000	A	Unpaid		5.62	2	0
+97	Aetna	300	B	Paid	14	1.73	0	1
+98	BCBS	100	A	Paid	35	6.15	2	0
+99	Medicare	100	A	Paid	22	6.09	1	0
+100	Medicare	1800	A	Unpaid		5.27	1	0
+101	Medicare	100	B	Paid	8	1.04	0	4
+102	Other_Commercial	300	B	Paid	11	1.21	0	4
+103	BCBS	300	A	Paid	16	5.86	3	0
+104	Aetna	500	A	Paid	17	7.15	3	0
+105	No_Fault	100	B	Paid	12	2.02	0	4
+106	Medicaid	800	B	Unpaid		1.28	0	4
+107	BCBS	100	B	Unpaid		1.85	0	2
+108	Workers_Compensation	1500	B	Unpaid		1.68	0	1
+109	Medicaid	300	B	Paid	10	1.37	0	3
+110	Medicare	800	B	Paid	27	1.01	0	1
+111	BCBS	1800	B	Unpaid		1.93	0	1
+112	Medicare	1200	B	Unpaid		2.37	0	0
+113	No_Fault	800	A	Unpaid		6.13	3	0
+114	Workers_Compensation	300	A	Unpaid		5.66	1	0
+115	Other_Commercial	300	A	Paid	14	9.44	3	0
+116	No_Fault	1200	A	Paid	28	6.38	2	0
+117	Workers_Compensation	2500	A	Unpaid		6.12	3	0
+118	Medicare	1200	A	Paid	8	9.29	2	0
+119	No_Fault	1000	B	Unpaid		2.63	0	4
+120	Aetna	1200	B	Unpaid		1.90	0	4
+121	Workers_Compensation	800	A	Unpaid		7.45	1	0
+122	No_Fault	100	A	Paid	35	6.09	2	0
+123	BCBS	1000	B	Unpaid		1.16	0	4
+124	Medicare	2500	B	Paid	29	2.15	0	0
+125	Medicaid	100	B	Paid	8	1.20	0	2
+126	BCBS	1200	A	Paid	7	7.25	2	0
+127	Workers_Compensation	300	B	Unpaid		2.88	0	2
+128	No_Fault	800	A	Unpaid		9.76	2	0
+129	Medicare	100	A	Unpaid		6.20	1	0
+130	Aetna	800	B	Paid	26	2.25	0	3
+131	BCBS	1500	B	Unpaid		1.95	0	2
+132	Medicaid	300	A	Paid	31	9.38	1	0
+133	Medicare	1200	B	Unpaid		1.54	0	2
+134	BCBS	1500	B	Unpaid		1.01	0	4
+135	No_Fault	2100	A	Paid	26	5.81	1	0
+136	BCBS	300	B	Unpaid		1.70	0	1
+137	Aetna	500	A	Paid	36	6.58	1	0
+138	Other_Commercial	100	A	Unpaid		8.96	3	0
+139	BCBS	2500	B	Unpaid		2.36	0	2
+140	Self_Pay	2100	A	Paid	18	6.50	1	0
+141	Self_Pay	800	A	Unpaid		7.29	2	0
+142	BCBS	1500	B	Paid	18	1.19	0	2
+143	Aetna	800	B	Paid	19	2.80	0	0
+144	BCBS	1000	B	Unpaid		2.87	0	3
+145	BCBS	100	A	Paid	24	9.90	1	0
+146	Medicare	1500	A	Paid	27	9.34	3	0
+147	Other_Commercial	100	B	Paid	12	1.35	0	0
+148	Aetna	1500	A	Paid	28	5.23	3	0
+149	Medicare	1500	B	Unpaid		2.16	0	4
+150	BCBS	1200	B	Unpaid		2.83	0	1
+151	No_Fault	100	A	Unpaid		5.89	3	0
+152	Medicaid	300	B	Paid	10	1.01	0	3
+153	Medicare	300	A	Paid	18	9.03	2	0
+154	Aetna	500	A	Paid	12	5.38	1	0
+155	Self_Pay	100	B	Unpaid		1.83	0	0
+156	Medicaid	2100	A	Paid	7	8.39	1	0
+157	Other_Commercial	1000	B	Paid	30	1.47	0	2
+158	Workers_Compensation	300	A	Unpaid		5.42	1	0
+159	Medicaid	500	A	Unpaid		8.85	2	0
+160	Other_Commercial	500	A	Paid	39	8.15	2	0
+161	BCBS	1000	B	Unpaid		2.98	0	2
+162	Other_Commercial	800	A	Unpaid		6.72	3	0
+163	Other_Commercial	2100	B	Unpaid		1.12	0	3
+164	Aetna	800	A	Paid	20	8.67	3	0
+165	Medicare	2500	A	Paid	23	7.61	1	0
+166	Workers_Compensation	1800	B	Paid	30	1.43	0	2
+167	BCBS	300	B	Unpaid		2.56	0	0
+168	Medicare	2100	B	Unpaid		1.41	0	0
+169	Medicare	100	B	Unpaid		1.52	0	2
+170	Other_Commercial	1500	B	Paid	24	1.19	0	2
+171	Other_Commercial	500	A	Paid	21	7.00	2	0
+172	Medicare	1800	A	Paid	8	7.09	2	0
+173	Aetna	1800	B	Unpaid		2.03	0	4
+174	Medicaid	1500	A	Paid	19	8.54	1	0
+175	Other_Commercial	1500	A	Paid	11	9.53	1	0
+176	Medicare	300	A	Paid	32	5.69	3	0
+177	Other_Commercial	100	B	Paid	8	1.11	0	1
+178	BCBS	500	A	Paid	22	5.09	3	0
+179	No_Fault	100	A	Unpaid		5.72	3	0
+180	Medicare	1200	A	Unpaid		8.29	1	0
+181	BCBS	300	B	Paid	8	2.45	0	3
+182	Medicare	2500	A	Paid	12	8.93	1	0
+183	No_Fault	1000	A	Unpaid		6.22	3	0
+184	No_Fault	1500	B	Paid	37	1.61	0	0
+185	BCBS	100	B	Paid	12	1.97	0	3
+186	Other_Commercial	1800	A	Paid	27	5.32	3	0
+187	Workers_Compensation	2100	A	Paid	14	8.06	2	0
+188	Other_Commercial	800	B	Unpaid		2.97	0	4
+189	Aetna	1000	B	Unpaid		1.72	0	0
+190	Medicaid	1500	B	Unpaid		2.51	0	4
+191	Medicare	100	B	Unpaid		2.00	0	4
+192	No_Fault	800	B	Unpaid		1.26	0	2
+193	No_Fault	500	B	Unpaid		2.16	0	3
+194	Other_Commercial	100	B	Paid	13	1.60	0	3
+195	BCBS	500	A	Unpaid		5.17	2	0
+196	BCBS	100	B	Unpaid		2.27	0	2
+197	Other_Commercial	100	B	Unpaid		2.72	0	3
+198	No_Fault	100	A	Paid	29	6.72	3	0
+199	No_Fault	2500	B	Unpaid		1.78	0	2
+200	Workers_Compensation	800	B	Paid	11	2.78	0	0
+201	Other_Commercial	2500	A	Paid	20	9.07	3	0
+202	Medicare	500	B	Paid	31	2.43	0	4
+203	Medicare	300	A	Paid	22	6.24	2	0
+204	No_Fault	800	A	Paid	11	9.55	3	0
+205	Other_Commercial	500	A	Paid	39	5.77	2	0
+206	Medicare	100	A	Unpaid		8.13	2	0
+207	Medicare	1000	B	Paid	29	1.06	0	4
+208	Other_Commercial	300	A	Unpaid		8.22	2	0
+209	Medicare	1000	A	Paid	16	6.39	1	0
+210	Medicare	1200	B	Paid	15	1.90	0	3
+211	Aetna	100	A	Paid	24	6.73	1	0
+212	Other_Commercial	100	A	Unpaid		5.86	3	0
+213	Other_Commercial	1500	A	Paid	8	8.11	2	0
+214	Medicaid	800	A	Paid	14	9.41	1	0
+215	Other_Commercial	100	B	Paid	14	2.92	0	1
+216	Medicaid	2500	A	Paid	26	5.96	3	0
+217	BCBS	100	B	Unpaid		2.43	0	4
+218	Other_Commercial	1200	B	Paid	11	2.33	0	2
+219	Other_Commercial	2500	A	Paid	13	6.72	3	0
+220	Workers_Compensation	300	A	Paid	16	5.10	3	0
+221	Other_Commercial	100	A	Paid	19	8.45	3	0
+222	Other_Commercial	100	A	Unpaid		9.73	3	0
+223	Medicare	300	B	Unpaid		2.26	0	1
+224	BCBS	100	B	Paid	13	1.87	0	1
+225	BCBS	1200	B	Unpaid		2.05	0	4
+226	Medicaid	100	A	Unpaid		6.00	2	0
+227	Self_Pay	800	B	Unpaid		2.50	0	4
+228	BCBS	2500	A	Paid	14	8.73	3	0
+229	No_Fault	1500	A	Paid	28	5.73	2	0
+230	Other_Commercial	1000	A	Unpaid		9.39	1	0
+231	Workers_Compensation	300	A	Unpaid		6.35	3	0
+232	Aetna	1000	A	Paid	30	9.91	1	0
+233	Other_Commercial	800	B	Unpaid		1.77	0	4
+234	Aetna	500	B	Paid	20	1.36	0	2
+235	Medicare	100	A	Unpaid		6.76	2	0
+236	Other_Commercial	1800	B	Unpaid		1.88	0	1
+237	BCBS	500	A	Paid	27	5.35	2	0
+238	Medicare	100	A	Paid	26	7.89	1	0
+239	Other_Commercial	500	A	Unpaid		7.99	3	0
+240	Medicare	500	B	Unpaid		2.48	0	3
+241	No_Fault	1500	A	Paid	25	5.15	3	0
+242	Self_Pay	1200	A	Unpaid		7.71	1	0
+243	No_Fault	1500	B	Paid	33	1.11	0	2
+244	BCBS	100	B	Paid	3	2.40	0	0
+245	Medicare	500	B	Paid	17	1.11	0	4
+246	No_Fault	800	A	Paid	20	9.56	1	0
+247	BCBS	100	A	Unpaid		8.51	1	0
+248	Self_Pay	300	B	Paid	10	2.01	0	1
+249	Self_Pay	1500	A	Unpaid		7.21	3	0
+250	No_Fault	100	B	Unpaid		1.26	0	2
+251	BCBS	800	B	Unpaid		1.58	0	0
+252	BCBS	300	A	Paid	31	9.34	3	0
+253	No_Fault	100	A	Unpaid		9.52	3	0
+254	BCBS	300	B	Paid	9	1.00	0	2
+255	Medicare	2500	B	Paid	19	2.19	0	2
+256	Other_Commercial	1500	B	Unpaid		2.44	0	3
+257	No_Fault	2500	B	Paid	22	2.24	0	3
+258	Other_Commercial	800	A	Unpaid		5.41	1	0
+259	Other_Commercial	100	B	Unpaid		1.44	0	2
+260	Medicare	800	B	Paid	31	1.50	0	0
+261	Other_Commercial	800	B	Paid	31	2.66	0	1
+262	Self_Pay	1500	A	Paid	22	7.32	3	0
+263	Medicare	100	A	Paid	18	7.43	2	0
+264	Aetna	800	B	Unpaid		2.87	0	1
+265	No_Fault	100	A	Paid	34	8.19	1	0
+266	Other_Commercial	300	A	Unpaid		9.49	3	0
+267	Other_Commercial	1200	A	Paid	16	7.28	1	0
+268	Other_Commercial	800	B	Paid	19	1.30	0	4
+269	BCBS	500	B	Paid	11	2.86	0	4
+270	BCBS	500	A	Unpaid		7.29	2	0
+271	Workers_Compensation	800	B	Unpaid		1.36	0	1
+272	Workers_Compensation	1500	B	Unpaid		1.60	0	2
+273	No_Fault	1800	A	Unpaid		5.25	2	0
+274	No_Fault	2500	A	Unpaid		7.34	1	0
+275	Aetna	1500	B	Unpaid		2.71	0	2
+276	Aetna	300	A	Unpaid		9.67	1	0
+277	Workers_Compensation	1200	B	Unpaid		2.87	0	3
+278	Other_Commercial	500	B	Paid	24	1.25	0	3
+279	Other_Commercial	300	A	Unpaid		6.91	2	0
+280	Workers_Compensation	1500	B	Unpaid		1.06	0	4
+281	No_Fault	100	B	Paid	8	2.71	0	1
+282	BCBS	2100	A	Paid	18	6.79	1	0
+283	BCBS	800	A	Paid	27	8.16	2	0
+284	Medicare	1000	A	Paid	11	8.57	2	0
+285	Other_Commercial	1200	B	Unpaid		1.86	0	2
+286	Medicare	1800	A	Paid	28	6.53	3	0
+287	Aetna	1000	A	Unpaid		9.81	1	0
+288	Aetna	1000	A	Unpaid		9.82	1	0
+289	BCBS	100	A	Unpaid		6.45	3	0
+290	Other_Commercial	800	B	Unpaid		1.96	0	1
+291	Medicare	100	B	Unpaid		2.95	0	0
+292	Medicare	1200	A	Unpaid		5.02	2	0
+293	Workers_Compensation	800	B	Paid	22	1.83	0	1
+294	BCBS	1200	A	Unpaid		5.50	1	0
+295	Medicare	100	A	Unpaid		7.55	3	0
+296	Aetna	100	B	Paid	13	1.05	0	0
+297	Workers_Compensation	1200	B	Paid	36	1.81	0	3
+298	Medicaid	100	A	Unpaid		6.10	3	0
+299	Other_Commercial	100	A	Paid	28	7.67	1	0
+300	Medicare	100	B	Paid	14	2.99	0	3
+301	Medicare	2500	A	Unpaid		9.00	3	0
+302	Aetna	1200	B	Paid	22	2.69	0	4
+303	Aetna	500	A	Unpaid		8.18	2	0
+304	Other_Commercial	300	A	Paid	23	5.21	3	0
+305	Other_Commercial	300	B	Paid	12	1.41	0	1
+306	Self_Pay	1500	B	Unpaid		2.85	0	1
+307	Aetna	1200	B	Unpaid		1.73	0	0
+308	BCBS	100	B	Paid	5	1.21	0	3
+309	Workers_Compensation	100	B	Paid	4	2.40	0	0
+310	BCBS	100	B	Unpaid		1.60	0	3
+311	BCBS	1200	B	Paid	23	1.54	0	0
+312	Medicare	1500	A	Paid	5	9.99	2	0
+313	Medicare	300	A	Paid	12	9.29	2	0
+314	Self_Pay	100	A	Paid	28	7.04	1	0
+315	Workers_Compensation	100	B	Paid	14	2.96	0	3
+316	Other_Commercial	2500	B	Unpaid		2.30	0	0
+317	BCBS	300	B	Unpaid		2.48	0	3
+318	Medicare	1500	A	Unpaid		5.16	3	0
+319	Medicare	1000	B	Unpaid		1.24	0	0
+320	BCBS	500	B	Unpaid		2.27	0	1
+321	Aetna	300	A	Paid	34	9.50	2	0
+322	Other_Commercial	100	B	Paid	2	2.25	0	4
+323	Other_Commercial	1000	A	Unpaid		5.67	2	0
+324	BCBS	1500	A	Paid	29	5.58	3	0
+325	Self_Pay	1000	B	Paid	10	2.69	0	0
+326	Other_Commercial	800	B	Paid	32	1.28	0	4
+327	Other_Commercial	100	B	Paid	7	2.04	0	1
+328	Other_Commercial	2500	A	Unpaid		5.19	2	0
+329	BCBS	1500	A	Paid	26	5.40	3	0
+330	Medicaid	300	A	Unpaid		8.36	1	0
+331	BCBS	2500	B	Unpaid		2.38	0	1
+332	Workers_Compensation	1000	B	Unpaid		1.68	0	3
+333	Medicare	1000	B	Unpaid		1.43	0	4
+334	Medicare	1200	B	Paid	24	2.63	0	2
+335	Medicare	1500	A	Paid	6	6.09	2	0
+336	Medicare	1200	A	Unpaid		7.71	2	0
+337	No_Fault	100	A	Unpaid		9.84	3	0
+338	Other_Commercial	300	A	Paid	28	5.74	3	0
+339	Aetna	2100	B	Paid	37	2.88	0	3
+340	Medicare	300	B	Paid	11	1.37	0	4
+341	Aetna	500	B	Paid	29	2.13	0	0
+342	Aetna	500	A	Unpaid		6.89	3	0
+343	Medicare	500	A	Unpaid		9.82	3	0
+344	BCBS	1000	B	Unpaid		1.55	0	0
+345	BCBS	2100	B	Unpaid		1.80	0	1
+346	Other_Commercial	300	A	Unpaid		9.91	2	0
+347	Other_Commercial	100	B	Unpaid		2.07	0	2
+348	Medicare	100	A	Paid	37	7.51	1	0
+349	BCBS	1800	A	Unpaid		6.29	1	0
+350	Other_Commercial	1000	A	Paid	24	8.51	1	0
+351	Aetna	300	B	Unpaid		1.03	0	0
+352	No_Fault	1500	B	Unpaid		1.10	0	4
+353	Other_Commercial	1800	A	Paid	24	8.00	1	0
+354	Medicare	1500	B	Unpaid		1.68	0	4
+355	Medicare	2100	A	Paid	23	9.77	3	0
+356	Other_Commercial	300	A	Unpaid		9.52	2	0
+357	Medicare	1500	A	Unpaid		8.57	2	0
+358	Other_Commercial	800	A	Unpaid		9.09	2	0
+359	No_Fault	1500	B	Paid	28	2.33	0	0
+360	Other_Commercial	1200	A	Unpaid		5.63	3	0
+361	BCBS	1500	A	Unpaid		8.83	2	0
+362	Other_Commercial	1200	B	Unpaid		1.42	0	4
+363	Aetna	100	A	Paid	20	6.62	3	0
+364	Aetna	800	A	Unpaid		9.10	2	0
+365	No_Fault	2500	B	Unpaid		2.07	0	4
+366	BCBS	2100	B	Paid	20	2.72	0	1
+367	Self_Pay	100	B	Paid	6	1.43	0	2
+368	No_Fault	100	A	Paid	15	8.04	1	0
+369	Medicare	100	B	Unpaid		1.17	0	1
+370	Medicare	1200	B	Paid	12	2.29	0	2
+371	Medicare	1500	A	Unpaid		8.81	3	0
+372	Medicare	300	A	Unpaid		7.92	2	0
+373	Medicare	800	A	Unpaid		6.33	1	0
+374	Other_Commercial	1500	A	Paid	15	5.16	1	0
+375	Medicare	1200	A	Unpaid		5.60	1	0
+376	BCBS	800	B	Unpaid		2.24	0	4
+377	Workers_Compensation	1000	B	Unpaid		2.87	0	2
+378	Medicare	800	B	Unpaid		1.41	0	4
+379	Workers_Compensation	300	A	Paid	28	8.68	3	0
+380	BCBS	1000	A	Unpaid		9.33	3	0
+381	Medicare	1200	A	Paid	28	7.60	2	0
+382	Other_Commercial	1800	B	Unpaid		2.34	0	4
+383	Other_Commercial	1000	B	Unpaid		2.63	0	1
+384	No_Fault	1500	A	Unpaid		6.30	1	0
+385	Other_Commercial	100	B	Paid	4	1.59	0	1
+386	Workers_Compensation	800	A	Unpaid		5.00	2	0
+387	BCBS	100	B	Paid	1	2.93	0	3
+388	Medicare	300	B	Unpaid		2.84	0	0
+389	Workers_Compensation	1200	B	Paid	37	2.53	0	3
+390	Workers_Compensation	2500	A	Unpaid		5.40	2	0
+391	Self_Pay	100	B	Paid	7	1.90	0	3
+392	BCBS	500	B	Paid	20	1.20	0	2
+393	BCBS	1500	A	Unpaid		5.08	1	0
+394	Workers_Compensation	300	B	Paid	6	2.23	0	4
+395	BCBS	1000	A	Unpaid		9.80	2	0
+396	No_Fault	1200	A	Paid	18	9.51	3	0
+397	No_Fault	1000	A	Paid	39	8.48	2	0
+398	BCBS	100	A	Unpaid		5.48	1	0
+399	Workers_Compensation	500	A	Paid	23	6.37	3	0
+400	Workers_Compensation	1500	B	Paid	38	1.64	0	4
+401	Medicare	1000	A	Unpaid		8.82	3	0
+402	No_Fault	100	A	Unpaid		9.01	2	0
+403	Aetna	1500	A	Unpaid		6.93	2	0
+404	Workers_Compensation	100	A	Paid	36	7.09	3	0
+405	BCBS	1200	B	Unpaid		1.09	0	4
+406	No_Fault	300	A	Unpaid		6.45	2	0
+407	BCBS	2500	B	Unpaid		1.90	0	0
+408	Medicare	500	A	Paid	32	5.58	1	0
+409	No_Fault	300	B	Paid	7	1.91	0	2
+410	Medicare	100	A	Unpaid		9.27	2	0
+411	BCBS	300	A	Unpaid		7.91	2	0
+412	Self_Pay	1800	B	Paid	19	1.16	0	2
+413	Self_Pay	2500	A	Paid	20	5.96	3	0
+414	Other_Commercial	500	B	Unpaid		1.95	0	4
+415	Other_Commercial	500	A	Unpaid		6.81	2	0
+416	BCBS	1200	B	Paid	10	1.72	0	3
+417	BCBS	1800	A	Paid	6	7.65	2	0
+418	BCBS	1000	A	Paid	13	7.92	2	0
+419	Other_Commercial	500	B	Paid	35	2.59	0	0
+420	Workers_Compensation	500	A	Paid	16	6.70	1	0
+421	Workers_Compensation	1200	A	Unpaid		9.03	2	0
+422	Workers_Compensation	100	A	Unpaid		6.69	1	0
+423	Medicare	1000	A	Unpaid		5.28	1	0
+424	Aetna	500	A	Paid	28	7.77	1	0
+425	Medicare	1500	A	Paid	24	7.94	1	0
+426	Aetna	100	B	Paid	11	2.87	0	3
+427	BCBS	1000	B	Unpaid		2.45	0	1
+428	No_Fault	800	B	Paid	37	2.84	0	2
+429	BCBS	1000	A	Paid	25	9.54	3	0
+430	Medicare	100	B	Paid	11	2.21	0	2
+431	Medicare	1000	A	Unpaid		7.64	1	0
+432	Workers_Compensation	1000	A	Unpaid		7.79	2	0
+433	Other_Commercial	1000	A	Paid	25	9.89	1	0
+434	Medicare	1000	A	Paid	25	8.87	2	0
+435	Medicare	1200	B	Unpaid		1.21	0	3
+436	Other_Commercial	1500	A	Unpaid		8.89	1	0
+437	Medicare	300	B	Paid	11	1.34	0	0
+438	Workers_Compensation	1500	A	Unpaid		7.24	3	0
+439	Other_Commercial	800	B	Unpaid		1.42	0	2
+440	Medicare	100	B	Paid	10	2.38	0	3
+441	Medicare	100	B	Paid	7	2.75	0	0
+442	Self_Pay	300	B	Unpaid		1.58	0	3
+443	BCBS	1500	B	Paid	35	1.16	0	0
+444	BCBS	1200	B	Unpaid		1.60	0	4
+445	Workers_Compensation	1500	A	Paid	10	8.36	1	0
+446	No_Fault	800	B	Unpaid		1.66	0	0
+447	Self_Pay	500	A	Unpaid		6.39	1	0
+448	Workers_Compensation	100	B	Paid	2	1.37	0	1
+449	BCBS	300	A	Unpaid		7.49	3	0
+450	Medicare	500	B	Unpaid		1.55	0	4
+451	Workers_Compensation	100	B	Unpaid		2.46	0	3
+452	Other_Commercial	300	A	Unpaid		5.38	1	0
+453	BCBS	1000	B	Unpaid		2.33	0	4
+454	No_Fault	1200	B	Unpaid		1.48	0	4
+455	Medicare	2500	B	Paid	18	1.98	0	3
+456	Aetna	2100	A	Unpaid		6.43	2	0
+457	Medicare	1000	B	Paid	38	2.45	0	3
+458	Aetna	500	A	Paid	39	9.73	1	0
+459	Medicare	1000	B	Paid	11	2.83	0	1
+460	Medicare	1500	B	Unpaid		2.17	0	3
+461	Medicare	100	A	Paid	31	7.31	1	0
+462	Other_Commercial	500	B	Paid	16	2.64	0	2
+463	Other_Commercial	1500	B	Unpaid		2.37	0	2
+464	Other_Commercial	500	A	Paid	14	5.92	1	0
+465	Self_Pay	1000	B	Unpaid		2.64	0	1
+466	BCBS	1000	A	Unpaid		7.14	3	0
+467	BCBS	100	A	Paid	20	5.94	1	0
+468	No_Fault	500	A	Unpaid		6.41	1	0
+469	Medicaid	300	B	Paid	1	1.54	0	0
+470	Self_Pay	100	A	Unpaid		7.60	2	0
+471	Medicare	100	A	Paid	11	6.17	1	0
+472	Self_Pay	1500	B	Unpaid		1.25	0	0
+473	Medicare	300	A	Unpaid		5.62	1	0
+474	No_Fault	800	B	Unpaid		2.17	0	2
+475	Aetna	300	B	Paid	7	2.47	0	3
+476	Self_Pay	2100	B	Paid	23	1.64	0	1
+477	Medicare	300	B	Paid	12	1.07	0	0
+478	Other_Commercial	500	A	Paid	26	5.64	1	0
+479	Self_Pay	1800	A	Unpaid		9.57	1	0
+480	Aetna	1500	A	Paid	9	7.47	2	0
+481	Other_Commercial	100	A	Unpaid		7.27	2	0
+482	Other_Commercial	1500	A	Unpaid		5.19	3	0
+483	Aetna	800	B	Unpaid		2.46	0	0
+484	Other_Commercial	800	A	Paid	16	7.64	1	0
+485	Other_Commercial	100	A	Paid	16	6.01	3	0
+486	No_Fault	100	A	Unpaid		5.55	3	0
+487	Medicare	1200	B	Paid	28	1.77	0	4
+488	BCBS	800	B	Unpaid		2.67	0	2
+489	Self_Pay	500	A	Paid	12	9.33	1	0
+490	No_Fault	1200	B	Paid	24	2.21	0	3
+491	Aetna	1500	A	Unpaid		8.64	2	0
+492	Other_Commercial	100	A	Unpaid		5.58	2	0
+493	BCBS	1000	B	Unpaid		2.18	0	1
+494	Medicare	100	B	Paid	10	2.33	0	0
+495	Aetna	1500	A	Paid	8	6.00	1	0
+496	BCBS	1200	A	Paid	7	9.40	1	0
+497	Other_Commercial	2500	B	Paid	32	1.39	0	4
+498	Medicare	100	A	Unpaid		6.57	2	0
+499	Self_Pay	100	B	Unpaid		2.24	0	2
+500	Self_Pay	300	A	Paid	23	8.19	1	0
+501	Other_Commercial	300	B	Unpaid		2.40	0	2
+502	Aetna	300	A	Paid	24	5.56	1	0
+503	BCBS	2100	A	Unpaid		9.25	1	0
+504	Workers_Compensation	300	B	Unpaid		2.07	0	1
+505	Other_Commercial	300	A	Unpaid		7.36	2	0
+506	Medicare	1500	A	Paid	16	9.91	3	0
+507	No_Fault	500	B	Paid	20	2.48	0	0
+508	Workers_Compensation	1500	A	Unpaid		5.59	3	0
+509	No_Fault	100	A	Unpaid		8.78	1	0
+510	Other_Commercial	800	A	Unpaid		5.48	2	0
+511	Other_Commercial	100	B	Unpaid		1.05	0	1
+512	BCBS	100	B	Unpaid		1.81	0	1
+513	No_Fault	2100	B	Unpaid		2.99	0	4
+514	No_Fault	100	A	Unpaid		5.87	1	0
+515	Medicare	800	A	Unpaid		8.36	2	0
+516	Medicare	500	A	Paid	32	5.87	1	0
+517	BCBS	300	A	Unpaid		8.62	2	0
+518	Workers_Compensation	1800	B	Unpaid		2.01	0	2
+519	Self_Pay	100	A	Unpaid		8.40	2	0
+520	Medicare	1200	A	Paid	17	6.01	3	0
+521	Other_Commercial	2500	A	Paid	22	8.73	1	0
+522	BCBS	1000	B	Unpaid		2.99	0	3
+523	Self_Pay	2100	A	Paid	23	8.33	3	0
+524	Workers_Compensation	100	A	Paid	24	7.47	3	0
+525	Workers_Compensation	500	A	Unpaid		9.62	2	0
+526	Aetna	300	A	Unpaid		5.08	1	0
+527	BCBS	1200	A	Unpaid		8.65	2	0
+528	BCBS	2500	B	Paid	34	2.78	0	2
+529	Medicare	300	A	Paid	12	5.31	2	0
+530	No_Fault	1200	A	Unpaid		7.25	2	0
+531	Workers_Compensation	100	A	Unpaid		6.02	1	0
+532	Self_Pay	1000	A	Unpaid		7.83	1	0
+533	Self_Pay	800	A	Paid	22	8.25	2	0
+534	Other_Commercial	2500	A	Paid	29	6.51	1	0
+535	Workers_Compensation	1000	A	Paid	27	7.30	2	0
+536	No_Fault	300	A	Unpaid		6.40	1	0
+537	Workers_Compensation	100	A	Unpaid		6.85	1	0
+538	Medicaid	100	A	Unpaid		5.80	3	0
+539	Aetna	300	B	Paid	12	2.77	0	2
+540	Medicare	300	B	Paid	2	1.02	0	4
+541	Self_Pay	1800	B	Unpaid		2.76	0	3
+542	Other_Commercial	1000	B	Unpaid		2.14	0	0
+543	Medicaid	800	A	Unpaid		6.66	2	0
+544	Other_Commercial	100	B	Paid	10	2.45	0	3
+545	Other_Commercial	1800	B	Unpaid		2.02	0	0
+546	BCBS	1200	A	Unpaid		7.50	3	0
+547	Medicare	100	B	Paid	9	1.22	0	3
+548	Other_Commercial	1200	B	Unpaid		1.78	0	1
+549	Aetna	800	A	Unpaid		6.21	3	0
+550	Workers_Compensation	100	A	Unpaid		5.08	2	0
+551	Aetna	800	A	Paid	28	6.80	2	0
+552	No_Fault	800	B	Paid	32	1.18	0	3
+553	Other_Commercial	100	B	Paid	12	1.51	0	4
+554	Other_Commercial	2100	A	Unpaid		5.46	1	0
+555	No_Fault	1500	A	Unpaid		5.50	2	0
+556	BCBS	1200	B	Unpaid		1.40	0	0
+557	Medicare	800	A	Unpaid		10.00	3	0
+558	Medicare	500	B	Paid	35	1.00	0	2
+559	Workers_Compensation	1200	A	Unpaid		8.19	3	0
+560	Other_Commercial	800	A	Unpaid		5.71	2	0
+561	Other_Commercial	100	B	Paid	6	2.84	0	4
+562	Medicaid	800	A	Unpaid		5.47	3	0
+563	Medicare	1500	A	Paid	26	9.78	1	0
+564	Medicare	800	A	Paid	37	8.05	3	0
+565	BCBS	100	B	Unpaid		1.00	0	0
+566	Other_Commercial	1500	A	Paid	18	9.47	1	0
+567	BCBS	300	A	Paid	32	7.61	3	0
+568	BCBS	300	A	Unpaid		6.31	1	0
+569	No_Fault	100	A	Unpaid		8.84	1	0
+570	BCBS	300	A	Unpaid		9.63	2	0
+571	Aetna	1500	A	Unpaid		7.42	1	0
+572	Workers_Compensation	800	B	Paid	32	1.63	0	0
+573	BCBS	300	B	Paid	7	2.58	0	2
+574	Other_Commercial	1800	A	Paid	27	8.41	2	0
+575	No_Fault	1800	B	Unpaid		2.78	0	1
+576	No_Fault	1800	B	Unpaid		2.39	0	4
+577	Medicare	300	A	Paid	24	6.22	3	0
+578	No_Fault	800	B	Paid	34	2.86	0	2
+579	Aetna	2500	B	Paid	36	1.21	0	2
+580	BCBS	1500	B	Unpaid		1.54	0	1
+581	Aetna	100	B	Paid	3	2.04	0	4
+582	Self_Pay	100	B	Unpaid		2.13	0	2
+583	Aetna	800	B	Paid	16	1.03	0	1
+584	BCBS	2100	B	Unpaid		2.56	0	4
+585	Other_Commercial	800	B	Unpaid		1.72	0	3
+586	Medicaid	800	A	Paid	18	7.03	3	0
+587	Medicare	100	A	Unpaid		9.05	3	0
+588	Medicare	1200	B	Unpaid		1.76	0	0
+589	Medicare	1500	B	Paid	17	1.09	0	1
+590	Medicare	500	A	Unpaid		5.88	1	0
+591	Medicare	1500	B	Unpaid		2.91	0	0
+592	Other_Commercial	2500	B	Paid	14	1.14	0	3
+593	Medicare	300	A	Unpaid		6.77	3	0
+594	BCBS	800	A	Paid	37	7.52	3	0
+595	No_Fault	300	A	Unpaid		7.47	2	0
+596	Aetna	1500	B	Paid	27	1.01	0	2
+597	Other_Commercial	1000	B	Unpaid		2.00	0	2
+598	Medicare	1000	A	Unpaid		6.92	2	0
+599	Medicare	1500	A	Paid	10	9.86	3	0
+600	Medicare	500	B	Paid	23	1.32	0	4
+601	Medicare	2100	A	Paid	7	6.77	3	0
+602	BCBS	800	B	Paid	12	1.84	0	1
+603	Medicare	100	B	Paid	3	1.78	0	1
+604	Medicare	1200	A	Unpaid		8.33	1	0
+605	Medicare	1500	A	Unpaid		6.08	1	0
+606	Aetna	300	B	Paid	13	1.44	0	4
+607	Medicaid	1800	A	Paid	5	8.65	3	0
+608	BCBS	2100	A	Paid	17	7.50	2	0
+609	Aetna	300	A	Unpaid		7.08	3	0
+610	Other_Commercial	2500	A	Paid	6	5.85	1	0
+611	Medicare	100	B	Unpaid		1.38	0	0
+612	Workers_Compensation	300	B	Paid	3	1.02	0	2
+613	Other_Commercial	100	B	Unpaid		1.18	0	2
+614	Medicare	1800	B	Unpaid		2.11	0	1
+615	No_Fault	1200	A	Paid	13	9.46	2	0
+616	No_Fault	100	A	Unpaid		6.44	2	0
+617	Medicare	500	B	Paid	11	1.66	0	1
+618	BCBS	1000	B	Paid	17	1.23	0	4
+619	Workers_Compensation	100	A	Paid	11	6.94	1	0
+620	Other_Commercial	1800	B	Unpaid		1.07	0	3
+621	Medicare	1500	B	Unpaid		2.84	0	0
+622	Medicaid	800	A	Unpaid		8.37	3	0
+623	BCBS	2500	B	Paid	18	2.98	0	3
+624	Aetna	500	A	Paid	16	9.41	3	0
+625	Other_Commercial	2500	A	Unpaid		7.36	3	0
+626	BCBS	1200	B	Unpaid		2.04	0	3
+627	Aetna	1000	A	Unpaid		5.95	1	0
+628	Other_Commercial	100	B	Paid	8	1.92	0	1
+629	Medicare	1800	A	Paid	13	9.52	2	0
+630	BCBS	500	B	Unpaid		1.10	0	1
+631	Other_Commercial	100	B	Paid	8	2.73	0	1
+632	No_Fault	100	B	Unpaid		1.68	0	3
+633	Aetna	1000	A	Unpaid		9.50	1	0
+634	Aetna	800	A	Unpaid		9.70	3	0
+635	Medicare	1200	B	Paid	12	2.34	0	0
+636	BCBS	1800	A	Unpaid		8.32	1	0
+637	Aetna	100	B	Unpaid		1.91	0	1
+638	Medicaid	1200	B	Unpaid		2.67	0	2
+639	BCBS	100	A	Unpaid		9.81	2	0
+640	BCBS	1800	B	Unpaid		2.55	0	0
+641	Medicare	1500	A	Unpaid		8.11	1	0
+642	BCBS	800	B	Paid	22	2.21	0	2
+643	Medicaid	1200	A	Unpaid		9.25	3	0
+644	BCBS	300	B	Paid	8	2.08	0	0
+645	Medicare	800	B	Unpaid		2.61	0	1
+646	No_Fault	1500	A	Paid	13	7.54	2	0
+647	Other_Commercial	800	B	Paid	20	1.12	0	4
+648	Other_Commercial	500	B	Paid	38	1.77	0	1
+649	Workers_Compensation	800	A	Paid	13	7.22	1	0
+650	Aetna	1500	B	Unpaid		1.28	0	3
+651	Medicare	300	A	Unpaid		5.51	1	0
+652	Aetna	100	B	Paid	8	2.07	0	3
+653	Other_Commercial	1200	A	Paid	11	5.43	2	0
+654	Other_Commercial	1500	B	Paid	33	1.61	0	0
+655	BCBS	100	B	Unpaid		2.49	0	3
+656	Medicare	300	B	Unpaid		2.93	0	1
+657	BCBS	100	A	Unpaid		8.59	2	0
+658	BCBS	300	A	Paid	38	9.96	3	0
+659	Other_Commercial	800	A	Paid	28	8.49	2	0
+660	Other_Commercial	1200	A	Unpaid		6.47	3	0
+661	BCBS	1200	B	Paid	27	2.34	0	2
+662	Self_Pay	1000	B	Paid	32	2.40	0	1
+663	Other_Commercial	500	A	Paid	11	6.86	1	0
+664	Medicaid	1500	A	Unpaid		5.09	3	0
+665	Medicare	800	A	Unpaid		8.52	1	0
+666	Medicare	2500	B	Unpaid		1.04	0	0
+667	Medicaid	1000	A	Unpaid		8.16	2	0
+668	Medicare	100	A	Paid	12	5.82	1	0
+669	Medicare	1200	B	Unpaid		2.13	0	3
+670	BCBS	300	B	Unpaid		2.01	0	2
+671	Medicare	1200	A	Unpaid		5.07	2	0
+672	No_Fault	100	B	Paid	11	1.73	0	4
+673	Medicare	100	A	Paid	39	8.01	1	0
+674	Aetna	1800	B	Paid	25	2.70	0	2
+675	BCBS	300	A	Unpaid		9.44	1	0
+676	Self_Pay	1500	A	Unpaid		7.42	1	0
+677	Medicare	300	A	Unpaid		8.64	1	0
+678	BCBS	1000	A	Paid	12	6.58	3	0
+679	Self_Pay	1200	B	Unpaid		1.68	0	2
+680	No_Fault	800	B	Paid	15	1.39	0	1
+681	Workers_Compensation	300	B	Unpaid		2.12	0	4
+682	BCBS	300	B	Paid	1	1.63	0	0
+683	Medicare	100	A	Paid	24	5.42	1	0
+684	Other_Commercial	300	A	Paid	28	8.43	3	0
+685	No_Fault	1200	B	Paid	37	2.42	0	0
+686	Other_Commercial	2100	B	Unpaid		1.72	0	2
+687	Other_Commercial	1800	B	Unpaid		1.15	0	2
+688	BCBS	1500	B	Unpaid		1.85	0	3
+689	Workers_Compensation	1500	B	Unpaid		1.88	0	4
+690	Medicare	1200	A	Unpaid		8.34	2	0
+691	BCBS	300	A	Unpaid		6.58	2	0
+692	BCBS	2100	A	Paid	10	8.41	3	0
+693	Aetna	1200	B	Unpaid		2.74	0	2
+694	Medicaid	1000	B	Unpaid		1.47	0	3
+695	Medicare	100	B	Unpaid		2.96	0	4
+696	Other_Commercial	500	B	Paid	26	1.77	0	0
+697	BCBS	800	A	Unpaid		6.34	2	0
+698	Other_Commercial	1800	A	Paid	23	7.11	2	0
+699	Medicare	800	B	Paid	37	1.19	0	3
+700	Aetna	500	A	Unpaid		5.63	1	0
+701	Aetna	2500	A	Unpaid		7.07	1	0
+702	Medicare	100	B	Paid	10	2.52	0	4
+703	BCBS	500	B	Paid	31	2.80	0	3
+704	Medicare	100	B	Unpaid		2.33	0	2
+705	Medicare	1200	B	Unpaid		1.21	0	1
+706	Self_Pay	2100	B	Unpaid		2.34	0	0
+707	BCBS	300	B	Unpaid		2.27	0	2
+708	Workers_Compensation	1800	A	Paid	11	9.03	1	0
+709	BCBS	300	A	Paid	10	9.13	3	0
+710	Other_Commercial	2100	B	Unpaid		2.74	0	2
+711	Workers_Compensation	1500	A	Paid	26	7.07	3	0
+712	Other_Commercial	1500	B	Paid	36	2.40	0	4
+713	Aetna	100	B	Unpaid		1.54	0	3
+714	BCBS	2500	B	Paid	16	3.00	0	0
+715	BCBS	1200	B	Unpaid		1.35	0	2
+716	No_Fault	300	A	Unpaid		5.05	2	0
+717	Workers_Compensation	1500	B	Unpaid		1.30	0	4
+718	Self_Pay	300	A	Paid	18	8.88	1	0
+719	Medicare	1800	B	Unpaid		1.89	0	0
+720	Other_Commercial	100	B	Unpaid		1.90	0	3
+721	No_Fault	1200	B	Unpaid		2.91	0	2
+722	Medicare	800	A	Unpaid		9.60	3	0
+723	Medicare	100	B	Paid	11	1.62	0	2
+724	Other_Commercial	300	B	Unpaid		1.42	0	2
+725	Other_Commercial	100	B	Paid	5	2.70	0	0
+726	Workers_Compensation	800	A	Unpaid		9.53	3	0
+727	Medicare	300	A	Unpaid		7.71	1	0
+728	Workers_Compensation	1000	A	Unpaid		8.15	3	0
+729	Medicaid	300	B	Paid	14	1.51	0	0
+730	Medicare	300	A	Unpaid		9.00	1	0
+731	Medicare	1200	B	Unpaid		2.26	0	0
+732	Workers_Compensation	100	A	Paid	26	7.52	2	0
+733	Other_Commercial	2100	A	Paid	24	5.30	2	0
+734	Aetna	1800	B	Paid	27	2.83	0	0
+735	BCBS	1200	A	Paid	22	8.08	2	0
+736	No_Fault	1000	B	Paid	15	1.39	0	4
+737	BCBS	1800	B	Paid	27	2.21	0	1
+738	Workers_Compensation	100	A	Unpaid		8.39	1	0
+739	BCBS	100	B	Paid	3	2.05	0	4
+740	BCBS	300	B	Unpaid		2.44	0	2
+741	Aetna	1500	A	Unpaid		7.91	3	0
+742	BCBS	100	A	Paid	17	9.74	2	0
+743	Other_Commercial	1000	B	Paid	39	1.11	0	4
+744	Aetna	2500	A	Unpaid		5.53	2	0
+745	Medicaid	1800	B	Paid	11	1.35	0	3
+746	No_Fault	800	B	Paid	21	2.38	0	0
+747	BCBS	100	A	Unpaid		8.23	2	0
+748	Aetna	1500	A	Paid	22	9.46	3	0
+749	No_Fault	1000	A	Unpaid		8.66	3	0
+750	Other_Commercial	100	A	Unpaid		7.54	1	0
+751	Medicare	100	B	Paid	13	2.98	0	3
+752	No_Fault	2100	B	Unpaid		1.53	0	3
+753	Other_Commercial	1200	A	Paid	26	9.17	2	0
+754	BCBS	1500	A	Paid	9	7.13	3	0
+755	Medicare	1800	B	Unpaid		2.30	0	2
+756	Workers_Compensation	1000	B	Unpaid		2.45	0	0
+757	Other_Commercial	800	B	Unpaid		2.27	0	3
+758	Aetna	500	B	Unpaid		1.28	0	2
+759	No_Fault	300	A	Unpaid		7.21	1	0
+760	Workers_Compensation	500	B	Paid	25	2.12	0	0
+761	Medicare	1500	B	Unpaid		2.70	0	1
+762	BCBS	1000	A	Unpaid		7.22	2	0
+763	Medicaid	1800	B	Paid	25	2.84	0	2
+764	Other_Commercial	500	B	Paid	11	1.88	0	4
+765	Medicare	1000	A	Unpaid		7.74	3	0
+766	Other_Commercial	1000	A	Unpaid		8.98	3	0
+767	Workers_Compensation	1000	A	Unpaid		7.92	1	0
+768	No_Fault	1200	B	Paid	34	2.92	0	0
+769	BCBS	300	B	Paid	4	2.32	0	3
+770	Workers_Compensation	800	A	Paid	28	7.61	2	0
+771	Medicare	100	A	Paid	17	5.12	2	0
+772	Workers_Compensation	500	B	Unpaid		1.83	0	3
+773	Medicare	800	A	Unpaid		6.50	3	0
+774	BCBS	1200	A	Paid	15	8.74	2	0
+775	Workers_Compensation	2500	A	Unpaid		6.04	1	0
+776	Medicare	1000	B	Unpaid		1.41	0	4
+777	Medicaid	1200	B	Unpaid		1.38	0	4
+778	Other_Commercial	800	B	Paid	15	1.25	0	3
+779	Other_Commercial	1000	B	Unpaid		1.62	0	0
+780	Other_Commercial	100	B	Unpaid		2.77	0	2
+781	Other_Commercial	300	B	Unpaid		2.55	0	4
+782	Aetna	500	A	Paid	10	8.68	3	0
+783	BCBS	800	B	Paid	13	2.59	0	4
+784	BCBS	100	B	Paid	11	1.54	0	4
+785	Medicare	100	A	Paid	10	9.44	3	0
+786	No_Fault	300	B	Unpaid		1.27	0	1
+787	Other_Commercial	2500	B	Paid	13	1.67	0	0
+788	BCBS	300	A	Unpaid		7.93	1	0
+789	Aetna	800	A	Paid	11	5.51	3	0
+790	No_Fault	100	A	Paid	19	8.65	2	0
+791	Medicare	1000	B	Paid	26	1.77	0	0
+792	Other_Commercial	300	A	Paid	27	8.92	2	0
+793	Aetna	300	B	Paid	1	1.99	0	0
+794	Other_Commercial	800	B	Unpaid		1.36	0	0
+795	Medicare	100	B	Unpaid		2.47	0	0
+796	No_Fault	100	B	Paid	2	1.50	0	3
+797	No_Fault	300	A	Unpaid		7.45	3	0
+798	Other_Commercial	100	A	Paid	35	5.38	1	0
+799	Other_Commercial	100	B	Paid	4	2.24	0	4
+800	No_Fault	300	A	Unpaid		8.33	1	0
+801	Other_Commercial	1500	B	Unpaid		1.76	0	3
+802	Medicare	1000	B	Unpaid		2.91	0	1
+803	Other_Commercial	800	B	Unpaid		2.75	0	2
+804	Other_Commercial	300	A	Paid	10	8.54	2	0
+805	BCBS	2100	B	Unpaid		2.43	0	4
+806	Other_Commercial	500	B	Paid	27	1.50	0	1
+807	No_Fault	100	A	Paid	30	8.28	1	0
+808	No_Fault	1000	A	Unpaid		5.99	3	0
+809	Aetna	100	A	Unpaid		5.72	3	0
+810	Medicare	300	A	Paid	19	10.00	2	0
+811	Self_Pay	800	B	Paid	28	2.24	0	3
+812	Workers_Compensation	1800	A	Paid	24	7.15	2	0
+813	Medicare	800	B	Unpaid		1.58	0	2
+814	No_Fault	1200	A	Paid	5	8.02	2	0
+815	No_Fault	2500	A	Unpaid		5.25	1	0
+816	Aetna	100	A	Paid	24	5.47	3	0
+817	Other_Commercial	300	A	Paid	31	5.16	3	0
+818	BCBS	500	A	Unpaid		7.50	3	0
+819	Medicare	500	A	Paid	12	8.00	2	0
+820	BCBS	500	B	Paid	38	1.12	0	1
+821	Workers_Compensation	2100	A	Unpaid		8.61	3	0
+822	Medicare	1200	A	Unpaid		6.15	1	0
+823	BCBS	1000	A	Unpaid		8.43	1	0
+824	BCBS	300	A	Paid	11	9.91	3	0
+825	Aetna	1500	B	Unpaid		2.38	0	2
+826	No_Fault	2500	A	Paid	22	9.42	2	0
+827	BCBS	1500	A	Paid	21	9.74	3	0
+828	BCBS	100	A	Paid	32	7.43	1	0
+829	Other_Commercial	1000	A	Paid	23	8.51	1	0
+830	Aetna	100	B	Unpaid		2.70	0	1
+831	Medicaid	300	A	Unpaid		6.78	1	0
+832	Aetna	100	B	Paid	9	1.52	0	3
+833	Medicare	1000	A	Paid	12	9.73	3	0
+834	Medicare	1200	B	Unpaid		2.45	0	2
+835	Aetna	100	B	Paid	5	1.44	0	1
+836	BCBS	500	A	Unpaid		7.25	1	0
+837	No_Fault	800	A	Paid	28	8.98	2	0
+838	BCBS	500	B	Unpaid		2.09	0	3
+839	Other_Commercial	100	B	Unpaid		2.30	0	4
+840	Other_Commercial	500	A	Paid	36	8.77	3	0
+841	Medicare	1500	B	Unpaid		2.24	0	3
+842	Other_Commercial	100	B	Paid	12	2.08	0	3
+843	Medicare	100	B	Unpaid		2.50	0	4
+844	Self_Pay	500	A	Unpaid		8.64	3	0
+845	Medicare	2100	B	Unpaid		2.26	0	3
+846	BCBS	1200	B	Unpaid		1.72	0	4
+847	Medicare	1200	B	Unpaid		1.81	0	4
+848	Self_Pay	500	A	Paid	16	9.85	1	0
+849	Aetna	1000	A	Unpaid		5.56	1	0
+850	Other_Commercial	100	B	Unpaid		1.54	0	4
+851	Medicare	1000	A	Unpaid		7.46	2	0
+852	Other_Commercial	2100	B	Unpaid		2.67	0	1
+853	Medicaid	1000	A	Unpaid		5.82	3	0
+854	No_Fault	1800	A	Unpaid		6.38	1	0
+855	Medicaid	1200	B	Unpaid		1.13	0	2
+856	Medicare	100	A	Paid	26	8.53	2	0
+857	Medicare	2100	A	Paid	10	6.19	1	0
+858	Aetna	100	A	Unpaid		6.94	3	0
+859	Other_Commercial	800	B	Unpaid		1.89	0	1
+860	Medicare	100	A	Unpaid		9.46	1	0
+861	Workers_Compensation	100	A	Paid	35	7.06	3	0
+862	Aetna	500	B	Paid	27	1.29	0	4
+863	Aetna	300	A	Paid	10	7.62	1	0
+864	BCBS	800	A	Paid	35	9.81	3	0
+865	BCBS	1000	A	Paid	24	8.04	2	0
+866	Other_Commercial	100	A	Unpaid		9.92	3	0
+867	Medicare	100	A	Paid	24	9.21	2	0
+868	Medicare	1000	B	Unpaid		1.07	0	2
+869	No_Fault	300	B	Unpaid		2.32	0	2
+870	No_Fault	1200	A	Paid	9	6.43	3	0
+871	BCBS	1200	A	Paid	27	7.80	2	0
+872	BCBS	1500	A	Unpaid		6.40	1	0
+873	Other_Commercial	1200	B	Unpaid		1.70	0	4
+874	BCBS	500	B	Unpaid		2.85	0	2
+875	Medicare	1200	A	Paid	7	6.03	3	0
+876	Medicare	300	A	Unpaid		9.37	1	0
+877	Other_Commercial	300	B	Paid	2	1.06	0	2
+878	Other_Commercial	1500	A	Paid	13	5.45	2	0
+879	Medicare	500	B	Unpaid		2.71	0	1
+880	Medicaid	1500	B	Unpaid		2.26	0	2
+881	Medicaid	1500	A	Unpaid		8.74	3	0
+882	Other_Commercial	1800	B	Unpaid		1.42	0	4
+883	Medicare	2100	A	Paid	5	7.69	3	0
+884	Medicare	500	A	Unpaid		8.69	1	0
+885	Workers_Compensation	300	A	Unpaid		8.14	3	0
+886	Medicare	1000	A	Unpaid		7.36	3	0
+887	Other_Commercial	500	A	Unpaid		9.80	1	0
+888	Medicaid	1000	A	Unpaid		8.38	3	0
+889	Medicare	1200	B	Unpaid		2.82	0	0
+890	Medicaid	1200	B	Unpaid		2.46	0	0
+891	Other_Commercial	500	B	Paid	10	2.47	0	0
+892	No_Fault	100	B	Paid	10	1.16	0	4
+893	Workers_Compensation	500	A	Unpaid		6.80	1	0
+894	BCBS	100	B	Unpaid		2.72	0	0
+895	Other_Commercial	1800	B	Unpaid		1.47	0	1
+896	Medicaid	300	B	Paid	14	1.23	0	4
+897	BCBS	100	A	Unpaid		6.63	1	0
+898	No_Fault	100	B	Paid	14	1.44	0	4
+899	Medicare	1000	A	Unpaid		9.63	1	0
+900	Medicare	1000	B	Unpaid		2.74	0	4
+901	Medicaid	300	A	Paid	27	7.50	1	0
+902	Medicare	100	A	Unpaid		5.31	1	0
+903	Medicare	500	B	Paid	32	2.43	0	2
+904	Other_Commercial	300	A	Unpaid		8.12	2	0
+905	BCBS	1200	A	Paid	5	9.85	2	0
+906	No_Fault	1000	B	Unpaid		2.12	0	2
+907	Workers_Compensation	500	B	Unpaid		1.67	0	2
+908	BCBS	300	B	Paid	5	2.04	0	3
+909	BCBS	2500	A	Paid	17	9.90	1	0
+910	BCBS	800	A	Unpaid		8.48	2	0
+911	Other_Commercial	1200	A	Paid	5	8.36	2	0
+912	BCBS	100	B	Paid	5	1.48	0	1
+913	Other_Commercial	800	A	Unpaid		8.72	3	0
+914	BCBS	100	A	Paid	37	8.75	1	0
+915	Other_Commercial	800	A	Paid	18	6.59	2	0
+916	BCBS	2500	A	Paid	21	7.42	3	0
+917	BCBS	500	A	Paid	25	6.47	3	0
+918	No_Fault	100	A	Unpaid		6.29	1	0
+919	Workers_Compensation	100	A	Unpaid		5.13	1	0
+920	Medicare	500	B	Paid	27	1.57	0	4
+921	No_Fault	100	B	Unpaid		2.11	0	4
+922	Aetna	100	B	Paid	13	1.00	0	2
+923	No_Fault	1500	A	Unpaid		6.42	3	0
+924	Workers_Compensation	800	A	Unpaid		9.41	1	0
+925	BCBS	300	B	Paid	13	2.19	0	4
+926	Medicare	2100	A	Paid	13	8.04	1	0
+927	BCBS	100	B	Unpaid		1.81	0	4
+928	Aetna	2500	A	Paid	8	8.38	3	0
+929	Other_Commercial	300	A	Unpaid		5.95	3	0
+930	BCBS	1800	B	Unpaid		2.64	0	0
+931	Medicare	1000	B	Unpaid		1.23	0	4
+932	Workers_Compensation	1500	B	Unpaid		2.31	0	3
+933	Self_Pay	2500	B	Paid	24	1.68	0	2
+934	Aetna	300	B	Paid	12	2.50	0	1
+935	Medicare	2500	A	Paid	23	7.75	1	0
+936	BCBS	500	A	Paid	35	7.26	2	0
+937	Medicare	500	A	Unpaid		5.85	1	0
+938	No_Fault	300	B	Paid	12	2.27	0	1
+939	Medicare	800	B	Unpaid		2.95	0	0
+940	Other_Commercial	100	B	Unpaid		2.65	0	1
+941	BCBS	1000	B	Paid	10	1.12	0	1
+942	Other_Commercial	800	B	Unpaid		1.75	0	2
+943	Other_Commercial	1500	B	Unpaid		2.85	0	2
+944	Workers_Compensation	1500	A	Unpaid		7.52	2	0
+945	Medicaid	500	A	Unpaid		8.31	3	0
+946	Medicare	300	A	Paid	20	9.56	2	0
+947	Medicare	300	A	Unpaid		9.37	3	0
+948	No_Fault	100	A	Unpaid		7.51	1	0
+949	No_Fault	100	B	Unpaid		1.88	0	3
+950	Other_Commercial	300	B	Unpaid		1.68	0	0
+951	Other_Commercial	300	B	Unpaid		2.44	0	1
+952	Other_Commercial	2500	B	Paid	13	1.57	0	3
+953	Medicare	1000	B	Unpaid		1.50	0	0
+954	No_Fault	300	B	Unpaid		1.71	0	1
+955	BCBS	1000	A	Paid	26	5.89	1	0
+956	BCBS	100	B	Paid	6	2.39	0	1
+957	Aetna	500	B	Unpaid		2.23	0	2
+958	Medicare	1000	B	Unpaid		1.97	0	4
+959	Medicare	800	B	Unpaid		1.78	0	0
+960	Other_Commercial	500	A	Paid	25	9.55	3	0
+961	Medicare	2500	A	Paid	11	5.15	3	0
+962	Other_Commercial	1800	B	Unpaid		2.54	0	1
+963	Medicaid	1000	A	Unpaid		9.51	3	0
+964	BCBS	1000	A	Paid	16	7.23	1	0
+965	BCBS	1000	B	Unpaid		2.10	0	0
+966	BCBS	300	B	Paid	4	2.89	0	3
+967	Other_Commercial	500	B	Paid	29	1.42	0	3
+968	BCBS	100	B	Paid	10	2.04	0	4
+969	Other_Commercial	800	B	Unpaid		1.95	0	1
+970	Aetna	800	A	Unpaid		6.29	1	0
+971	Other_Commercial	300	B	Paid	12	2.64	0	2
+972	No_Fault	2500	B	Unpaid		2.80	0	1
+973	Other_Commercial	2100	B	Unpaid		2.56	0	0
+974	Medicaid	1200	A	Unpaid		5.98	2	0
+975	Medicare	800	B	Unpaid		1.17	0	3
+976	BCBS	1800	B	Unpaid		2.21	0	0
+977	Other_Commercial	100	B	Paid	4	1.11	0	4
+978	Medicare	1500	A	Paid	14	8.36	3	0
+979	Aetna	100	B	Unpaid		2.06	0	3
+980	Other_Commercial	1500	B	Paid	32	2.33	0	2
+981	BCBS	300	B	Paid	12	2.18	0	3
+982	Workers_Compensation	1800	A	Unpaid		7.11	2	0
+983	Medicare	2100	B	Unpaid		1.40	0	1
+984	Medicare	100	B	Unpaid		1.61	0	1
+985	Other_Commercial	800	B	Unpaid		2.05	0	3
+986	Aetna	2500	A	Unpaid		8.26	1	0
+987	Other_Commercial	800	B	Unpaid		2.56	0	4
+988	BCBS	1800	B	Unpaid		2.53	0	1
+989	Medicaid	1000	B	Paid	21	2.95	0	1
+990	Workers_Compensation	500	A	Unpaid		6.43	2	0
+991	Workers_Compensation	300	A	Paid	13	5.36	2	0
+992	Other_Commercial	300	B	Paid	12	1.69	0	2
+993	BCBS	1500	A	Unpaid		8.72	1	0
+994	Other_Commercial	500	A	Unpaid		7.19	1	0
+995	BCBS	800	A	Paid	17	9.09	3	0
+996	Medicare	800	B	Unpaid		2.10	0	3
+997	No_Fault	1000	B	Unpaid		2.86	0	1
+998	Medicare	1800	A	Paid	25	9.74	2	0
+999	Self_Pay	2500	A	Paid	20	5.35	1	0
+1000	BCBS	500	A	Paid	14	7.28	1	0
+1001	Medicare	1500	B	Paid	12	2.22	0	4
+1002	Aetna	1500	B	Paid	32	1.51	0	0
+1003	No_Fault	1000	A	Unpaid		7.04	2	0
+1004	Other_Commercial	2500	A	Paid	7	8.39	1	0
+1005	Workers_Compensation	300	A	Paid	26	6.13	3	0
+1006	Other_Commercial	100	A	Unpaid		8.01	3	0
+1007	Other_Commercial	1800	B	Unpaid		2.39	0	3
+1008	Workers_Compensation	500	A	Unpaid		5.45	2	0
+1009	Medicaid	1500	B	Unpaid		2.00	0	2
+1010	Aetna	1800	A	Unpaid		6.32	3	0
+1011	Medicaid	100	A	Unpaid		8.62	1	0
+1012	Self_Pay	1800	A	Paid	27	5.95	1	0
+1013	No_Fault	500	A	Unpaid		9.46	1	0
+1014	Medicare	800	A	Unpaid		7.15	1	0
+1015	Other_Commercial	1000	B	Unpaid		1.40	0	1
+1016	No_Fault	2100	A	Paid	13	7.19	2	0
+1017	Medicare	100	A	Unpaid		7.04	3	0
+1018	Other_Commercial	800	A	Paid	12	7.14	3	0
+1019	No_Fault	1200	B	Paid	28	2.17	0	4
+1020	Medicare	1200	B	Unpaid		2.04	0	3
+1021	Other_Commercial	1200	B	Paid	19	1.30	0	4
+1022	BCBS	100	B	Paid	10	1.13	0	4
+1023	No_Fault	300	A	Unpaid		8.65	1	0
+1024	Self_Pay	500	A	Unpaid		7.80	2	0
+1025	No_Fault	1500	A	Unpaid		6.80	1	0
+1026	Aetna	300	B	Paid	12	2.62	0	2
+1027	No_Fault	300	A	Unpaid		6.94	1	0
+1028	Workers_Compensation	2500	A	Unpaid		8.98	2	0
+1029	BCBS	100	B	Paid	3	1.61	0	3
+1030	Workers_Compensation	2500	B	Unpaid		1.15	0	1
+1031	Medicare	1200	B	Paid	21	2.87	0	2
+1032	Other_Commercial	1500	A	Paid	12	6.97	2	0
+1033	Medicaid	300	A	Paid	37	8.96	1	0
+1034	Medicare	100	B	Paid	10	1.56	0	1
+1035	Medicare	1200	A	Unpaid		8.23	3	0
+1036	Other_Commercial	1500	B	Paid	13	2.75	0	0
+1037	BCBS	1200	B	Paid	21	1.08	0	4
+1038	Other_Commercial	100	A	Unpaid		9.15	1	0
+1039	Medicare	1500	B	Unpaid		2.14	0	0
+1040	BCBS	1500	B	Unpaid		2.21	0	4
+1041	Aetna	1200	B	Unpaid		2.05	0	2
+1042	Workers_Compensation	1500	A	Paid	11	9.37	3	0
+1043	BCBS	1500	B	Unpaid		1.09	0	1
+1044	Other_Commercial	1000	B	Paid	18	1.52	0	1
+1045	No_Fault	100	B	Paid	6	2.75	0	2
+1046	Other_Commercial	800	B	Unpaid		2.50	0	3
+1047	Medicaid	100	B	Unpaid		1.04	0	0
+1048	Medicare	500	B	Paid	19	2.03	0	0
+1049	No_Fault	500	B	Unpaid		2.06	0	1
+1050	Medicare	100	A	Paid	26	7.00	3	0
+1051	No_Fault	300	A	Unpaid		6.49	2	0
+1052	Aetna	100	B	Paid	3	2.36	0	1
+1053	No_Fault	1500	A	Paid	12	6.04	2	0
+1054	Workers_Compensation	2100	A	Paid	10	8.99	1	0
+1055	Self_Pay	100	B	Unpaid		2.61	0	1
+1056	BCBS	2500	A	Paid	28	7.08	3	0
+1057	Workers_Compensation	800	B	Unpaid		1.57	0	2
+1058	BCBS	300	B	Unpaid		1.57	0	3
+1059	Aetna	100	B	Unpaid		1.96	0	0
+1060	Other_Commercial	800	B	Unpaid		2.44	0	4
+1061	No_Fault	1500	B	Unpaid		1.72	0	2
+1062	Self_Pay	1200	A	Paid	14	8.05	3	0
+1063	Workers_Compensation	100	B	Paid	4	1.76	0	0
+1064	BCBS	100	A	Paid	19	6.52	1	0
+1065	BCBS	500	B	Unpaid		1.05	0	3
+1066	Other_Commercial	300	B	Paid	2	1.01	0	2
+1067	Medicaid	300	B	Paid	8	1.45	0	0
+1068	Medicare	300	A	Unpaid		7.03	1	0
+1069	BCBS	1500	B	Paid	16	2.70	0	2
+1070	BCBS	2100	B	Unpaid		2.60	0	0
+1071	BCBS	500	B	Unpaid		1.53	0	0
+1072	Medicaid	2100	B	Paid	10	1.49	0	3
+1073	Medicare	300	A	Paid	29	6.14	1	0
+1074	Medicare	800	B	Unpaid		1.68	0	4
+1075	Self_Pay	300	A	Unpaid		7.49	2	0
+1076	BCBS	1000	B	Unpaid		1.88	0	3
+1077	BCBS	2500	A	Paid	28	6.09	1	0
+1078	Other_Commercial	1000	A	Unpaid		5.65	1	0
+1079	Medicaid	500	B	Unpaid		1.03	0	0
+1080	No_Fault	1000	B	Paid	32	1.31	0	2
+1081	Workers_Compensation	100	A	Unpaid		8.53	3	0
+1082	Medicare	1800	B	Unpaid		1.49	0	3
+1083	BCBS	800	B	Unpaid		1.94	0	4
+1084	No_Fault	500	B	Unpaid		2.18	0	0
+1085	No_Fault	1000	A	Unpaid		9.43	1	0
+1086	Aetna	1000	B	Unpaid		2.78	0	3
+1087	Other_Commercial	100	B	Paid	3	2.49	0	3
+1088	Medicare	1200	B	Unpaid		1.07	0	3
+1089	Self_Pay	300	A	Paid	35	7.88	3	0
+1090	Medicaid	1200	B	Unpaid		2.57	0	3
+1091	No_Fault	1500	A	Paid	5	5.09	3	0
+1092	Other_Commercial	1500	B	Paid	11	2.10	0	2
+1093	Other_Commercial	1000	A	Paid	17	9.29	2	0
+1094	Aetna	800	B	Paid	25	1.95	0	4
+1095	Medicaid	100	B	Unpaid		1.01	0	4
+1096	Medicare	1500	A	Paid	17	5.06	1	0
+1097	Medicaid	300	A	Paid	12	7.08	1	0
+1098	Medicare	800	A	Unpaid		5.78	3	0
+1099	Workers_Compensation	300	B	Paid	10	2.33	0	0
+1100	BCBS	100	B	Unpaid		2.42	0	1
+1101	Medicare	1000	B	Unpaid		1.36	0	2
+1102	Self_Pay	100	B	Unpaid		2.78	0	0
+1103	No_Fault	1200	A	Paid	9	7.21	2	0
+1104	No_Fault	300	B	Unpaid		1.29	0	0
+1105	Self_Pay	100	B	Paid	5	2.53	0	3
+1106	Medicare	800	B	Paid	35	2.58	0	1
+1107	BCBS	100	B	Paid	7	2.28	0	1
+1108	Workers_Compensation	300	B	Paid	12	2.71	0	2
+1109	Other_Commercial	1200	B	Unpaid		2.47	0	1
+1110	Medicare	100	B	Paid	13	2.76	0	0
+1111	Workers_Compensation	1500	A	Unpaid		7.17	2	0
+1112	Medicaid	100	B	Unpaid		2.50	0	1
+1113	Medicaid	300	B	Unpaid		3.00	0	1
+1114	Aetna	1200	B	Paid	27	2.45	0	4
+1115	Other_Commercial	300	B	Unpaid		1.23	0	0
+1116	Other_Commercial	100	A	Unpaid		7.59	1	0
+1117	Medicare	500	A	Unpaid		7.94	3	0
+1118	No_Fault	300	A	Unpaid		5.87	1	0
+1119	BCBS	1500	A	Paid	19	9.81	1	0
+1120	Medicare	300	A	Paid	30	5.88	1	0
+1121	No_Fault	1500	A	Paid	8	5.89	1	0
+1122	Self_Pay	1800	B	Paid	35	2.83	0	1
+1123	No_Fault	500	A	Unpaid		7.33	3	0
+1124	Workers_Compensation	2100	A	Unpaid		5.32	2	0
+1125	Other_Commercial	500	B	Unpaid		2.20	0	1
+1126	Other_Commercial	2500	A	Paid	21	8.01	1	0
+1127	Medicare	100	B	Unpaid		1.13	0	3
+1128	BCBS	1200	B	Paid	32	2.95	0	1
+1129	BCBS	800	A	Unpaid		7.72	1	0
+1130	BCBS	500	B	Paid	13	2.12	0	1
+1131	Other_Commercial	1000	A	Unpaid		7.60	1	0
+1132	Aetna	1200	A	Unpaid		8.05	1	0
+1133	Medicare	100	B	Paid	12	1.53	0	4
+1134	Medicaid	100	B	Paid	5	1.57	0	0
+1135	Other_Commercial	1200	A	Paid	5	7.56	2	0
+1136	Medicare	1200	B	Paid	21	2.61	0	2
+1137	No_Fault	2500	B	Unpaid		1.10	0	0
+1138	Aetna	1500	A	Unpaid		8.02	2	0
+1139	Aetna	2500	A	Unpaid		9.03	2	0
+1140	Other_Commercial	1200	B	Paid	11	1.31	0	3
+1141	Workers_Compensation	300	A	Unpaid		5.08	2	0
+1142	BCBS	100	A	Unpaid		6.56	1	0
+1143	Other_Commercial	1500	A	Unpaid		7.94	3	0
+1144	Other_Commercial	1000	A	Unpaid		5.69	2	0
+1145	BCBS	100	A	Paid	19	7.13	2	0
+1146	No_Fault	500	A	Unpaid		7.76	1	0
+1147	Workers_Compensation	2500	A	Unpaid		7.99	1	0
+1148	Other_Commercial	800	B	Paid	18	1.55	0	0
+1149	No_Fault	500	A	Unpaid		7.00	1	0
+1150	No_Fault	800	B	Unpaid		2.56	0	1
+1151	Other_Commercial	300	B	Paid	9	2.88	0	3
+1152	Workers_Compensation	500	B	Paid	24	2.72	0	0
+1153	Other_Commercial	500	A	Paid	28	7.82	1	0
+1154	Other_Commercial	100	A	Paid	19	7.05	3	0
+1155	Other_Commercial	1500	B	Paid	13	1.67	0	3
+1156	Workers_Compensation	500	A	Unpaid		5.62	3	0
+1157	Medicare	1500	B	Paid	13	1.21	0	2
+1158	No_Fault	1800	A	Unpaid		8.44	2	0
+1159	No_Fault	300	A	Paid	13	6.30	3	0
+1160	Medicare	1200	B	Unpaid		1.51	0	0
+1161	Workers_Compensation	800	B	Unpaid		3.00	0	1
+1162	Medicare	1800	B	Unpaid		1.38	0	3
+1163	BCBS	300	A	Unpaid		5.74	2	0
+1164	Other_Commercial	1200	B	Unpaid		1.20	0	4
+1165	Medicare	1000	A	Unpaid		7.90	2	0
+1166	Workers_Compensation	300	A	Paid	23	8.14	3	0
+1167	Workers_Compensation	100	A	Paid	18	6.83	2	0
+1168	Aetna	1200	B	Paid	27	2.07	0	3
+1169	Medicare	1200	B	Unpaid		2.58	0	4
+1170	BCBS	300	B	Paid	12	2.64	0	1
+1171	Other_Commercial	1000	A	Paid	11	9.79	1	0
+1172	Self_Pay	500	A	Unpaid		9.12	2	0
+1173	Other_Commercial	1200	B	Paid	35	2.13	0	2
+1174	BCBS	100	A	Paid	36	5.90	1	0
+1175	Other_Commercial	1800	A	Paid	7	5.50	3	0
+1176	Aetna	300	B	Paid	6	1.11	0	4
+1177	Workers_Compensation	500	B	Paid	26	2.33	0	2
+1178	Medicare	100	B	Paid	7	2.62	0	3
+1179	Workers_Compensation	100	A	Unpaid		7.54	3	0
+1180	Aetna	800	A	Unpaid		5.27	2	0
+1181	Self_Pay	300	A	Unpaid		7.68	1	0
+1182	BCBS	1500	A	Paid	6	9.68	2	0
+1183	Other_Commercial	100	A	Unpaid		7.99	3	0
+1184	No_Fault	500	B	Paid	39	2.62	0	1
+1185	Medicare	300	A	Paid	24	9.00	2	0
+1186	No_Fault	100	A	Unpaid		9.66	2	0
+1187	Other_Commercial	100	A	Unpaid		8.85	1	0
+1188	Medicare	500	B	Unpaid		2.50	0	4
+1189	BCBS	800	B	Unpaid		1.47	0	3
+1190	Other_Commercial	500	B	Unpaid		1.12	0	0
+1191	Medicare	800	A	Unpaid		7.59	3	0
+1192	Other_Commercial	1000	B	Unpaid		1.25	0	3
+1193	BCBS	100	B	Unpaid		2.92	0	2
+1194	Other_Commercial	800	B	Unpaid		1.58	0	1
+1195	Medicare	2500	A	Paid	16	9.26	2	0
+1196	No_Fault	800	B	Unpaid		1.78	0	1
+1197	Self_Pay	1200	A	Unpaid		6.62	1	0
+1198	Self_Pay	300	A	Unpaid		9.68	2	0
+1199	Other_Commercial	1500	B	Unpaid		1.73	0	3
+1200	Medicare	1500	A	Unpaid		6.95	1	0
+1201	Workers_Compensation	800	B	Unpaid		1.21	0	0
+1202	Medicare	2500	A	Paid	25	8.35	1	0
+1203	Medicare	100	B	Paid	12	1.58	0	2
+1204	BCBS	100	B	Paid	7	2.17	0	3
+1205	Aetna	1500	B	Paid	29	2.18	0	3
+1206	Workers_Compensation	1500	A	Paid	20	8.60	2	0
+1207	Other_Commercial	100	B	Paid	1	2.49	0	1
+1208	BCBS	300	A	Unpaid		7.57	3	0
+1209	BCBS	100	B	Unpaid		1.66	0	2
+1210	Self_Pay	300	A	Paid	27	9.19	3	0
+1211	BCBS	1500	A	Paid	8	6.55	1	0
+1212	Aetna	800	B	Paid	29	2.02	0	0
+1213	Medicare	300	B	Unpaid		1.80	0	1
+1214	Workers_Compensation	500	B	Paid	34	2.71	0	3
+1215	Other_Commercial	100	B	Paid	4	1.86	0	1
+1216	Medicaid	300	B	Paid	2	1.77	0	1
+1217	Medicare	1000	A	Paid	19	8.45	3	0
+1218	Other_Commercial	2500	B	Unpaid		2.20	0	4
+1219	Other_Commercial	1500	B	Paid	16	1.21	0	1
+1220	BCBS	100	A	Unpaid		7.54	1	0
+1221	Self_Pay	1800	B	Unpaid		2.47	0	1
+1222	Medicare	1500	B	Unpaid		2.98	0	2
+1223	BCBS	1500	A	Unpaid		8.15	3	0
+1224	No_Fault	800	B	Paid	17	1.74	0	1
+1225	BCBS	500	B	Paid	26	1.45	0	0
+1226	Other_Commercial	300	B	Paid	5	2.75	0	3
+1227	BCBS	100	A	Unpaid		9.07	2	0
+1228	BCBS	300	B	Paid	1	1.47	0	2
+1229	Self_Pay	300	A	Unpaid		6.00	3	0
+1230	BCBS	800	B	Paid	29	2.43	0	1
+1231	No_Fault	1200	A	Unpaid		6.57	1	0
+1232	Medicaid	800	B	Unpaid		1.61	0	0
+1233	Medicaid	100	A	Paid	13	5.76	1	0
+1234	Medicare	2500	A	Unpaid		6.32	3	0
+1235	Other_Commercial	2100	A	Paid	28	7.14	2	0
+1236	BCBS	1500	A	Unpaid		8.66	1	0
+1237	No_Fault	2500	A	Paid	21	6.68	1	0
+1238	Aetna	800	A	Unpaid		6.64	1	0
+1239	Self_Pay	2500	B	Paid	15	1.57	0	3
+1240	Medicare	100	B	Unpaid		1.96	0	2
+1241	No_Fault	500	A	Unpaid		5.90	1	0
+1242	Workers_Compensation	300	A	Unpaid		7.43	1	0
+1243	Workers_Compensation	100	A	Unpaid		8.52	2	0
+1244	Workers_Compensation	100	A	Paid	23	5.15	3	0
+1245	Workers_Compensation	1000	B	Unpaid		1.02	0	0
+1246	Other_Commercial	1500	A	Paid	26	5.38	2	0
+1247	Medicare	1000	B	Unpaid		2.07	0	1
+1248	Medicare	100	B	Paid	5	2.71	0	4
+1249	No_Fault	1500	A	Unpaid		5.02	2	0
+1250	Other_Commercial	1000	A	Paid	38	9.68	1	0
+1251	Workers_Compensation	500	B	Unpaid		1.21	0	4
+1252	Aetna	1200	B	Unpaid		2.68	0	2
+1253	Medicare	300	A	Unpaid		7.41	2	0
+1254	Medicare	300	A	Unpaid		8.30	1	0
+1255	Other_Commercial	2100	A	Paid	12	7.55	2	0
+1256	BCBS	300	B	Paid	13	1.95	0	0
+1257	Medicaid	800	B	Unpaid		2.67	0	3
+1258	Aetna	1800	A	Paid	24	8.78	1	0
+1259	Medicare	1200	B	Paid	11	1.97	0	0
+1260	Other_Commercial	100	B	Paid	7	1.22	0	4
+1261	BCBS	100	A	Unpaid		5.58	1	0
+1262	Workers_Compensation	100	A	Paid	30	9.01	2	0
+1263	BCBS	1000	B	Unpaid		2.06	0	2
+1264	Aetna	500	B	Unpaid		1.96	0	1
+1265	Medicare	100	A	Paid	11	8.40	2	0
+1266	Medicare	2500	A	Unpaid		9.29	3	0
+1267	BCBS	800	A	Unpaid		8.14	3	0
+1268	Aetna	300	A	Unpaid		8.81	3	0
+1269	Other_Commercial	800	A	Unpaid		8.83	2	0
+1270	BCBS	1200	B	Unpaid		1.71	0	0
+1271	Other_Commercial	100	B	Unpaid		1.55	0	4
+1272	No_Fault	300	B	Paid	2	2.60	0	3
+1273	Workers_Compensation	1500	B	Unpaid		1.75	0	2
+1274	Medicare	800	A	Unpaid		9.52	2	0
+1275	Aetna	800	A	Unpaid		5.35	1	0
+1276	Medicare	500	A	Unpaid		5.29	3	0
+1277	Medicaid	100	B	Paid	11	2.85	0	1
+1278	Self_Pay	100	B	Paid	7	2.30	0	0
+1279	Medicare	500	B	Unpaid		1.76	0	3
+1280	Aetna	300	A	Paid	15	8.78	1	0
+1281	Other_Commercial	100	B	Paid	14	2.34	0	1
+1282	Other_Commercial	1500	A	Paid	28	7.66	1	0
+1283	Other_Commercial	2500	A	Paid	8	5.49	1	0
+1284	Medicare	1500	A	Paid	18	9.06	1	0
+1285	BCBS	1800	A	Paid	14	9.33	3	0
+1286	Aetna	300	A	Unpaid		5.86	1	0
+1287	Medicare	2500	A	Unpaid		9.25	2	0
+1288	BCBS	100	B	Paid	8	2.76	0	4
+1289	Medicare	2500	A	Unpaid		7.75	2	0
+1290	Medicare	2500	A	Paid	5	8.28	2	0
+1291	BCBS	1200	B	Paid	37	1.76	0	4
+1292	Medicare	2500	A	Paid	28	6.41	3	0
+1293	Other_Commercial	1000	B	Paid	12	2.44	0	3
+1294	Other_Commercial	300	B	Paid	3	2.72	0	4
+1295	Workers_Compensation	500	B	Paid	29	2.31	0	2
+1296	Medicaid	1000	A	Paid	26	7.56	1	0
+1297	Medicare	100	A	Unpaid		5.79	3	0
+1298	Medicare	1000	B	Paid	36	1.11	0	3
+1299	Other_Commercial	2500	A	Paid	11	7.23	1	0
+1300	Other_Commercial	100	A	Unpaid		5.25	3	0
+1301	Medicare	1500	B	Unpaid		2.14	0	4
+1302	No_Fault	2100	B	Unpaid		1.77	0	0
+1303	Medicare	2100	A	Unpaid		8.79	3	0
+1304	Aetna	2500	B	Unpaid		1.61	0	4
+1305	Other_Commercial	800	B	Paid	38	2.19	0	2
+1306	No_Fault	2500	B	Paid	17	2.08	0	1
+1307	Other_Commercial	1500	A	Unpaid		5.02	1	0
+1308	Workers_Compensation	100	A	Unpaid		5.36	3	0
+1309	BCBS	800	A	Paid	27	6.45	1	0
+1310	Workers_Compensation	1200	B	Paid	36	2.76	0	1
+1311	Medicare	300	A	Paid	36	5.74	2	0
+1312	No_Fault	1000	B	Unpaid		2.42	0	4
+1313	Aetna	1200	A	Paid	23	9.87	2	0
+1314	Workers_Compensation	100	A	Unpaid		8.95	2	0
+1315	Aetna	1000	B	Paid	37	1.49	0	1
+1316	Other_Commercial	1500	A	Unpaid		9.54	3	0
+1317	Aetna	800	B	Unpaid		1.19	0	4
+1318	Other_Commercial	100	A	Paid	37	7.34	2	0
+1319	Medicare	100	A	Paid	20	9.44	1	0
+1320	Medicare	500	B	Paid	32	2.28	0	2
+1321	Medicaid	2100	B	Paid	38	1.83	0	1
+1322	Medicare	300	B	Paid	4	1.59	0	0
+1323	No_Fault	1000	A	Unpaid		6.88	2	0
+1324	Medicaid	300	A	Paid	16	7.54	2	0
+1325	Self_Pay	300	A	Paid	21	6.60	3	0
+1326	BCBS	1500	B	Unpaid		2.94	0	4
+1327	Medicare	1200	B	Unpaid		2.87	0	1
+1328	Workers_Compensation	100	B	Paid	12	2.74	0	2
+1329	Other_Commercial	500	A	Unpaid		7.11	1	0
+1330	Aetna	100	A	Unpaid		8.46	3	0
+1331	Other_Commercial	800	B	Unpaid		2.81	0	2
+1332	Other_Commercial	1200	A	Unpaid		9.25	3	0
+1333	Medicaid	100	B	Unpaid		1.83	0	0
+1334	Self_Pay	300	A	Paid	39	5.56	1	0
+1335	Self_Pay	500	A	Paid	28	5.38	3	0
+1336	Other_Commercial	2100	B	Unpaid		2.15	0	2
+1337	Medicare	2500	A	Paid	27	8.21	1	0
+1338	Other_Commercial	100	A	Paid	27	9.25	2	0
+1339	Medicare	1500	B	Unpaid		1.59	0	2
+1340	Medicare	500	B	Unpaid		1.33	0	1
+1341	BCBS	500	A	Paid	21	6.90	1	0
+1342	Aetna	1500	B	Unpaid		1.71	0	4
+1343	No_Fault	2100	A	Unpaid		5.66	1	0
+1344	Other_Commercial	2500	B	Unpaid		2.34	0	3
+1345	Other_Commercial	1000	A	Paid	12	7.54	1	0
+1346	BCBS	500	A	Paid	19	8.61	3	0
+1347	BCBS	1500	B	Paid	38	1.71	0	2
+1348	BCBS	300	A	Paid	25	6.63	1	0
+1349	Self_Pay	1000	A	Paid	22	7.36	1	0
+1350	Medicare	500	B	Unpaid		2.75	0	2
+1351	No_Fault	1200	B	Paid	16	1.08	0	3
+1352	Other_Commercial	300	A	Unpaid		9.02	1	0
+1353	BCBS	100	B	Paid	3	1.74	0	2
+1354	Other_Commercial	2100	B	Unpaid		2.71	0	1
+1355	Aetna	100	A	Unpaid		9.01	2	0
+1356	No_Fault	800	A	Paid	28	6.74	1	0
+1357	No_Fault	300	B	Paid	6	2.39	0	1
+1358	BCBS	100	B	Unpaid		1.32	0	3
+1359	BCBS	100	B	Unpaid		2.79	0	2
+1360	Other_Commercial	100	A	Unpaid		7.02	3	0
+1361	No_Fault	1800	A	Paid	12	7.28	1	0
+1362	Medicaid	300	A	Unpaid		8.53	1	0
+1363	Other_Commercial	2500	A	Paid	28	9.10	2	0
+1364	Other_Commercial	1000	A	Unpaid		6.18	1	0
+1365	Other_Commercial	500	A	Unpaid		8.31	3	0
+1366	Medicare	1000	A	Unpaid		6.96	1	0
+1367	Other_Commercial	800	B	Unpaid		1.74	0	2
+1368	No_Fault	1500	B	Paid	26	2.38	0	4
+1369	Medicare	300	A	Paid	26	6.94	3	0
+1370	Medicaid	500	A	Paid	18	6.73	2	0
+1371	Self_Pay	1800	A	Unpaid		9.18	1	0
+1372	Medicare	2100	B	Unpaid		1.20	0	2
+1373	No_Fault	1800	A	Paid	15	8.38	2	0
+1374	Aetna	500	B	Unpaid		1.50	0	1
+1375	Medicaid	1500	B	Unpaid		1.03	0	0
+1376	No_Fault	800	B	Paid	12	1.33	0	0
+1377	BCBS	800	B	Paid	35	2.21	0	0
+1378	Aetna	300	B	Unpaid		2.42	0	0
+1379	BCBS	1000	A	Unpaid		5.11	1	0
+1380	Other_Commercial	100	A	Unpaid		5.18	3	0
+1381	Medicare	300	B	Paid	9	2.81	0	2
+1382	BCBS	1800	A	Unpaid		5.37	2	0
+1383	Self_Pay	300	B	Unpaid		2.79	0	2
+1384	BCBS	100	B	Unpaid		1.46	0	4
+1385	Other_Commercial	100	A	Paid	17	8.70	1	0
+1386	BCBS	2100	A	Paid	17	6.55	3	0
+1387	Workers_Compensation	800	A	Paid	33	9.29	2	0
+1388	Medicare	500	A	Paid	20	8.50	1	0
+1389	Self_Pay	1500	A	Unpaid		7.01	2	0
+1390	Aetna	1500	B	Paid	19	1.15	0	2
+1391	Medicaid	300	A	Unpaid		8.66	1	0
+1392	Medicare	1200	A	Paid	12	8.08	3	0
+1393	Medicare	1500	A	Paid	17	5.01	3	0
+1394	Aetna	1200	B	Unpaid		1.02	0	0
+1395	BCBS	100	A	Paid	18	9.04	2	0
+1396	Workers_Compensation	1800	B	Paid	29	1.52	0	3
+1397	BCBS	800	A	Paid	27	8.18	2	0
+1398	Medicaid	300	A	Unpaid		7.27	1	0
+1399	Other_Commercial	500	B	Unpaid		2.73	0	3
+1400	Other_Commercial	100	A	Paid	22	9.58	3	0
+1401	Medicare	100	A	Unpaid		9.98	1	0
+1402	Medicare	1500	B	Unpaid		1.31	0	1
+1403	Medicare	100	A	Paid	15	9.31	3	0
+1404	Other_Commercial	500	B	Paid	31	1.53	0	1
+1405	Other_Commercial	800	B	Unpaid		2.18	0	2
+1406	Aetna	100	B	Paid	1	2.01	0	3
+1407	Workers_Compensation	2500	B	Unpaid		1.04	0	0
+1408	Workers_Compensation	300	B	Paid	4	2.87	0	0
+1409	Other_Commercial	300	A	Paid	27	5.39	2	0
+1410	No_Fault	300	A	Unpaid		8.44	1	0
+1411	Medicaid	300	A	Paid	15	8.93	1	0
+1412	Medicare	100	B	Paid	5	2.59	0	0
+1413	BCBS	1200	B	Unpaid		1.27	0	2
+1414	Medicare	2500	B	Paid	19	1.90	0	2
+1415	Aetna	300	B	Paid	11	2.66	0	4
+1416	No_Fault	1200	A	Unpaid		6.51	3	0
+1417	Medicare	1200	A	Unpaid		7.34	3	0
+1418	Medicare	1500	B	Paid	31	1.55	0	0
+1419	Aetna	500	B	Unpaid		1.93	0	0
+1420	No_Fault	300	A	Unpaid		9.44	3	0
+1421	BCBS	300	B	Paid	13	1.91	0	2
+1422	Aetna	1200	B	Unpaid		2.11	0	2
+1423	Medicare	1500	B	Paid	32	1.81	0	4
+1424	Medicare	100	A	Unpaid		7.30	2	0
+1425	Self_Pay	500	A	Paid	29	5.08	1	0
+1426	Self_Pay	2100	B	Unpaid		1.57	0	4
+1427	Medicare	1500	A	Paid	17	7.18	3	0
+1428	Self_Pay	2500	B	Paid	16	2.27	0	1
+1429	Other_Commercial	1500	B	Paid	30	1.90	0	3
+1430	No_Fault	500	A	Paid	14	6.69	2	0
+1431	Aetna	1000	B	Unpaid		1.78	0	0
+1432	Aetna	1200	B	Unpaid		1.48	0	0
+1433	Aetna	100	A	Unpaid		9.62	3	0
+1434	Other_Commercial	800	B	Unpaid		2.04	0	4
+1435	Medicare	1200	B	Paid	18	1.03	0	4
+1436	Medicare	100	B	Unpaid		1.04	0	1
+1437	BCBS	1500	A	Unpaid		9.86	1	0
+1438	Other_Commercial	1000	B	Paid	16	1.44	0	3
+1439	Medicaid	2500	A	Unpaid		9.03	3	0
+1440	Other_Commercial	100	B	Paid	13	1.12	0	1
+1441	Self_Pay	300	B	Unpaid		2.84	0	3
+1442	Medicare	1000	B	Paid	35	2.75	0	0
+1443	Other_Commercial	300	B	Paid	1	2.14	0	1
+1444	BCBS	1200	A	Unpaid		5.04	1	0
+1445	No_Fault	1500	A	Unpaid		6.29	2	0
+1446	Medicare	100	B	Unpaid		1.81	0	4
+1447	Other_Commercial	800	B	Paid	20	1.92	0	1
+1448	Workers_Compensation	800	B	Unpaid		1.60	0	1
+1449	No_Fault	500	B	Unpaid		1.07	0	0
+1450	Other_Commercial	2100	B	Unpaid		2.18	0	4
+1451	Aetna	1500	B	Unpaid		2.05	0	4
+1452	Other_Commercial	1200	B	Paid	10	1.57	0	2
+1453	No_Fault	1200	B	Unpaid		1.08	0	2
+1454	Other_Commercial	800	A	Unpaid		9.97	2	0
+1455	Medicare	2100	A	Paid	23	7.41	3	0
+1456	No_Fault	1200	A	Paid	16	8.78	1	0
+1457	Other_Commercial	1200	B	Unpaid		1.90	0	2
+1458	Other_Commercial	1800	B	Unpaid		1.09	0	0
+1459	Medicaid	300	B	Unpaid		1.62	0	1
+1460	Other_Commercial	1500	A	Paid	10	6.60	1	0
+1461	BCBS	100	B	Unpaid		2.68	0	4
+1462	Other_Commercial	300	A	Unpaid		8.27	1	0
+1463	Medicare	300	B	Paid	6	1.55	0	4
+1464	Other_Commercial	2500	A	Unpaid		9.84	3	0
+1465	Self_Pay	1800	A	Paid	20	6.61	1	0
+1466	Medicare	1200	A	Paid	14	9.99	1	0
+1467	Self_Pay	1200	B	Unpaid		2.99	0	1
+1468	BCBS	1000	A	Unpaid		5.96	1	0
+1469	No_Fault	2100	B	Unpaid		1.63	0	4
+1470	Workers_Compensation	800	B	Unpaid		1.97	0	1
+1471	Other_Commercial	500	B	Paid	35	2.33	0	0
+1472	Other_Commercial	100	B	Paid	14	2.06	0	0
+1473	No_Fault	1500	B	Unpaid		2.94	0	0
+1474	BCBS	1200	A	Paid	20	8.62	1	0
+1475	BCBS	500	B	Unpaid		1.42	0	1
+1476	Other_Commercial	100	B	Unpaid		1.21	0	1
+1477	Workers_Compensation	1500	B	Unpaid		2.38	0	3
+1478	Workers_Compensation	100	B	Paid	7	1.32	0	4
+1479	Workers_Compensation	1200	B	Unpaid		2.58	0	4
+1480	BCBS	2500	A	Unpaid		6.56	3	0
+1481	Workers_Compensation	500	A	Unpaid		6.63	3	0
+1482	Medicare	300	B	Paid	14	1.02	0	3
+1483	Aetna	1200	A	Paid	18	8.51	1	0
+1484	Medicare	1500	A	Unpaid		5.57	1	0
+1485	BCBS	800	B	Paid	10	2.55	0	3
+1486	BCBS	2500	A	Unpaid		7.46	2	0
+1487	BCBS	100	B	Paid	5	2.57	0	0
+1488	Other_Commercial	800	A	Paid	31	7.92	2	0
+1489	BCBS	1200	A	Unpaid		5.41	1	0
+1490	BCBS	1800	A	Unpaid		8.83	1	0
+1491	Medicaid	100	B	Paid	10	1.14	0	3
+1492	BCBS	1500	A	Unpaid		7.39	2	0
+1493	Medicaid	1000	A	Unpaid		5.86	2	0
+1494	Medicare	500	B	Unpaid		2.50	0	1
+1495	Other_Commercial	100	B	Paid	14	2.82	0	2
+1496	Other_Commercial	1800	A	Unpaid		7.77	1	0
+1497	Other_Commercial	100	B	Paid	4	2.05	0	1
+1498	Aetna	300	A	Paid	31	8.82	3	0
+1499	BCBS	300	A	Unpaid		5.03	3	0
+1500	No_Fault	1800	B	Unpaid		2.84	0	3
