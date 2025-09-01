@@ -17,6 +17,19 @@ High operational costs from manual follow-ups (calls, letters)
 
 Inefficient payer engagement due to lack of data-driven strategies
 
+A-B-Testing-Medical-Bills/
+├── data/
+│   └── demo_medical_bills.csv
+├── analysis/
+│   ├── 1_Data_Cleaning.ipynb
+│   ├── 2_Statistical_Analysis.ipynb
+│   └── 3_Visualizations.ipynb
+├── src/
+│   └── automation_scripts.py
+├── dashboard/
+│   └── PowerBI_Report.pbix  # optional
+└── README.md
+
 🎯 Solution:
 A controlled A/B test comparing two follow-up methods:
 
